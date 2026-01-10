@@ -262,7 +262,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## ⚠️ Notes
 
 - Requires CUDA-capable GPU with at least 8GB VRAM
-- Training takes approximately 4-6 hours on a single GPU
+- Training takes approximately 15-20 hours on a single GPU
 - Testing takes approximately 1-2 hours on 9,824 examples
 - Ensure sufficient disk space for model checkpoints (~20GB)
 
