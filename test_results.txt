@@ -1,0 +1,8 @@
+SNLI Test Set Results
+============================================================
+Checkpoint: checkpoints
+Total Examples: 9824
+Correct Predictions: 8996
+Accuracy: 0.9157 (91.57%)
+
+Detailed predictions saved separately.
