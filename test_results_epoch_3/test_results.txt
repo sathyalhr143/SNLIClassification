@@ -1,0 +1,8 @@
+SNLI Test Set Results
+============================================================
+Checkpoint: checkpoints/epochs_3/checkpoint-206013
+Total Examples: 9824
+Correct Predictions: 9120
+Accuracy: 0.9283 (92.83%)
+
+Detailed predictions saved separately.

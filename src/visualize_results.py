@@ -4,12 +4,19 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics import confusion_matrix
 import sys
+import os
+
+# Output folder for results
+output_folder = "test_results_epoch_3"
+os.makedirs(output_folder, exist_ok=True)
 
 # Set style
 sns.set_style("whitegrid")
 plt.rcParams['figure.figsize'] = (12, 8)
 
-def load_predictions(filename='detailed_predictions.txt'):
+
+
+def load_predictions(filename='test_results_epoch_3/detailed_predictions.txt'):
     """Load predictions from file."""
     predictions = []
     with open(filename, 'r') as f:
@@ -25,7 +32,7 @@ def load_predictions(filename='detailed_predictions.txt'):
     return pd.DataFrame(predictions)
 
 
-def plot_confusion_matrix(df, save_path='confusion_matrix.png'):
+def plot_confusion_matrix(df, save_path='test_results_epoch_3/confusion_matrix.png'):
     """Create and save confusion matrix heatmap."""
     labels = ['entailment', 'neutral', 'contradiction']
     label_to_id = {'entailment': 0, 'neutral': 1, 'contradiction': 2}
@@ -48,7 +55,7 @@ def plot_confusion_matrix(df, save_path='confusion_matrix.png'):
     plt.close()
 
 
-def plot_class_performance(df, save_path='class_performance.png'):
+def plot_class_performance(df, save_path='test_results_epoch_3/class_performance.png'):
     """Plot per-class accuracy."""
     labels = ['entailment', 'neutral', 'contradiction']
     accuracies = []
@@ -78,7 +85,7 @@ def plot_class_performance(df, save_path='class_performance.png'):
     plt.close()
 
 
-def plot_error_distribution(df, save_path='error_distribution.png'):
+def plot_error_distribution(df, save_path='test_results_epoch_3/error_distribution.png'):
     """Plot distribution of error types."""
     errors = df[df['status'] == 'INCORRECT']
     error_types = errors.groupby(['true', 'predicted']).size().sort_values(ascending=False)
@@ -106,7 +113,7 @@ def plot_error_distribution(df, save_path='error_distribution.png'):
     plt.close()
 
 
-def plot_overall_metrics(df, save_path='overall_metrics.png'):
+def plot_overall_metrics(df, save_path='test_results_epoch_3/overall_metrics.png'):
     """Create a summary metrics visualization."""
     fig, axes = plt.subplots(1, 2, figsize=(14, 5))
     

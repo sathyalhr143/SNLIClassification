@@ -1,9 +1,14 @@
 import sys
+import os
 from datasets import load_dataset
 from collections import defaultdict
 import pandas as pd
 
-def load_predictions(filename='detailed_predictions.txt'):
+# Output folder for results
+output_folder = "test_results_epoch_3"
+os.makedirs(output_folder, exist_ok=True)
+
+def load_predictions(filename='test_results_epoch_3/detailed_predictions.txt'):
     """Load predictions from file."""
     predictions = []
     with open(filename, 'r') as f:
@@ -136,7 +141,7 @@ def main():
         analyze_specific_confusion(errors, test_data, true_label, pred_label, num_samples=5)
     
     # Save detailed error report
-    error_report_file = "error_analysis_report.txt"
+    error_report_file = os.path.join(output_folder, "error_analysis_report.txt")
     print(f"\n\nSaving detailed error report to {error_report_file}...")
     
     with open(error_report_file, 'w') as f:

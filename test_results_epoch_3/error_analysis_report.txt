@@ -1,0 +1,4227 @@
+DETAILED ERROR ANALYSIS
+================================================================================
+
+Error 1 (Index: 11)
+True: contradiction | Predicted: neutral
+Premise: A statue at a museum that no seems to be looking at.
+Hypothesis: Tons of people are gathered around the statue.
+--------------------------------------------------------------------------------
+
+Error 2 (Index: 12)
+True: entailment | Predicted: neutral
+Premise: A land rover is being driven across a river.
+Hypothesis: A Land Rover is splashing water as it crosses a river.
+--------------------------------------------------------------------------------
+
+Error 3 (Index: 20)
+True: neutral | Predicted: entailment
+Premise: A blond-haired doctor and her African american assistant looking threw new medical manuals.
+Hypothesis: A doctor is studying
+--------------------------------------------------------------------------------
+
+Error 4 (Index: 46)
+True: contradiction | Predicted: neutral
+Premise: During calf roping a cowboy calls off his horse.
+Hypothesis: Cowboy falling off horse.
+--------------------------------------------------------------------------------
+
+Error 5 (Index: 61)
+True: neutral | Predicted: entailment
+Premise: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+Hypothesis: Two girls play dress up indoors.
+--------------------------------------------------------------------------------
+
+Error 6 (Index: 66)
+True: neutral | Predicted: entailment
+Premise: A snowboarder on a wide plain of snow
+Hypothesis: A snow field with a snowboarder on it
+--------------------------------------------------------------------------------
+
+Error 7 (Index: 67)
+True: neutral | Predicted: contradiction
+Premise: A snowboarder on a wide plain of snow
+Hypothesis: A snowboarder gliding over a field of snow
+--------------------------------------------------------------------------------
+
+Error 8 (Index: 105)
+True: neutral | Predicted: entailment
+Premise: A Ford car is making a right turn as 3 males are walking across the street behind the car.
+Hypothesis: A car making a right turn had three pedestrians cross behind it.
+--------------------------------------------------------------------------------
+
+Error 9 (Index: 134)
+True: contradiction | Predicted: neutral
+Premise: A large number of people wearing only white and red are walking on a street.
+Hypothesis: A large number of people walking on a street.
+--------------------------------------------------------------------------------
+
+Error 10 (Index: 229)
+True: entailment | Predicted: neutral
+Premise: A newlywed couple laughing and talking amongst themselves.
+Hypothesis: The couple just got married.
+--------------------------------------------------------------------------------
+
+Error 11 (Index: 230)
+True: neutral | Predicted: entailment
+Premise: A newlywed couple laughing and talking amongst themselves.
+Hypothesis: The couple is divorced.
+--------------------------------------------------------------------------------
+
+Error 12 (Index: 242)
+True: entailment | Predicted: neutral
+Premise: A goofy looking woman is singing on stage.
+Hypothesis: A blonde woman is singing and dancing on the stage.
+--------------------------------------------------------------------------------
+
+Error 13 (Index: 285)
+True: neutral | Predicted: entailment
+Premise: Girl in a red coat, blue head wrap and jeans is making a snow angel.
+Hypothesis: A girl in a red coat makes a snow angel for the first time.
+--------------------------------------------------------------------------------
+
+Error 14 (Index: 306)
+True: entailment | Predicted: neutral
+Premise: Group of people wearing black shirts riding in an open top vehicle.
+Hypothesis: A group of people go down the road in a convertible.
+--------------------------------------------------------------------------------
+
+Error 15 (Index: 347)
+True: neutral | Predicted: entailment
+Premise: A man playing billiards at a bar.
+Hypothesis: A man is playing checkers.
+--------------------------------------------------------------------------------
+
+Error 16 (Index: 353)
+True: neutral | Predicted: contradiction
+Premise: People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.
+Hypothesis: People are riding on the escalator.
+--------------------------------------------------------------------------------
+
+Error 17 (Index: 356)
+True: neutral | Predicted: entailment
+Premise: A woman is weaving with a comb in her hand.
+Hypothesis: A woman is sitting with empty hands.
+--------------------------------------------------------------------------------
+
+Error 18 (Index: 358)
+True: neutral | Predicted: entailment
+Premise: A boy is riding down the road between two cows.
+Hypothesis: A boy, a road and two cows.
+--------------------------------------------------------------------------------
+
+Error 19 (Index: 371)
+True: contradiction | Predicted: neutral
+Premise: Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.
+Hypothesis: A tall person drying clothes
+--------------------------------------------------------------------------------
+
+Error 20 (Index: 372)
+True: entailment | Predicted: neutral
+Premise: The sun breaks through the trees as a child rides a swing.
+Hypothesis: The child is riding a swing in the rain.
+--------------------------------------------------------------------------------
+
+Error 21 (Index: 389)
+True: contradiction | Predicted: neutral
+Premise: Two women's volleyball teams are competing against each other on a salmon-colored and turquoise court while a referee in black watches.
+Hypothesis: ten boys play cricket
+--------------------------------------------------------------------------------
+
+Error 22 (Index: 456)
+True: contradiction | Predicted: neutral
+Premise: A group of four children pose on a muddy beach, smiling and making faces.
+Hypothesis: Four kids pose on a beach.
+--------------------------------------------------------------------------------
+
+Error 23 (Index: 469)
+True: neutral | Predicted: contradiction
+Premise: Children in yellow sports uniforms climbing a tower.
+Hypothesis: The kids crawl in sand.
+--------------------------------------------------------------------------------
+
+Error 24 (Index: 476)
+True: neutral | Predicted: entailment
+Premise: A crowded city street with lots of pedestrians.
+Hypothesis: The pedistrians are waiting for a parade to come through this busy street.
+--------------------------------------------------------------------------------
+
+Error 25 (Index: 499)
+True: contradiction | Predicted: neutral
+Premise: many children play in the water.
+Hypothesis: Some kids splash in the water and interact with each other.
+--------------------------------------------------------------------------------
+
+Error 26 (Index: 548)
+True: contradiction | Predicted: neutral
+Premise: A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.
+Hypothesis: A tall human jumping.
+--------------------------------------------------------------------------------
+
+Error 27 (Index: 558)
+True: neutral | Predicted: contradiction
+Premise: One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.
+Hypothesis: Someone recording a young boy as he auditions for a part in a movie.
+--------------------------------------------------------------------------------
+
+Error 28 (Index: 561)
+True: entailment | Predicted: neutral
+Premise: Boys with their backs against an incoming wave.
+Hypothesis: A group of people play in the ocean.
+--------------------------------------------------------------------------------
+
+Error 29 (Index: 573)
+True: neutral | Predicted: entailment
+Premise: One man, wearing a blue jacket, is kicking another man, wearing a red jacket.
+Hypothesis: Two men are fighting outside a bar.
+--------------------------------------------------------------------------------
+
+Error 30 (Index: 588)
+True: contradiction | Predicted: neutral
+Premise: A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.
+Hypothesis: Two men are recording a cooking tutorial.
+--------------------------------------------------------------------------------
+
+Error 31 (Index: 596)
+True: neutral | Predicted: entailment
+Premise: A white duck expanding its wings in the water.
+Hypothesis: The duck sleeps soundly, floating on top of the water
+--------------------------------------------------------------------------------
+
+Error 32 (Index: 614)
+True: entailment | Predicted: neutral
+Premise: A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.
+Hypothesis: There are several people outside of a building.
+--------------------------------------------------------------------------------
+
+Error 33 (Index: 635)
+True: neutral | Predicted: contradiction
+Premise: Two small boys in blue soccer uniforms use a wooden set of steps to wash their hands in an adult-sized bathroom.
+Hypothesis: The boys are in band uniforms
+--------------------------------------------------------------------------------
+
+Error 34 (Index: 657)
+True: neutral | Predicted: contradiction
+Premise: A man in a black tank top wearing a red plaid hat
+Hypothesis: A man getting ready to play golf.
+--------------------------------------------------------------------------------
+
+Error 35 (Index: 680)
+True: neutral | Predicted: entailment
+Premise: A crowd of people shopping at a street market in an urban area with buildings and a statue in background.
+Hypothesis: the crowd of people are shopping.
+--------------------------------------------------------------------------------
+
+Error 36 (Index: 686)
+True: neutral | Predicted: contradiction
+Premise: Five children playing soccer chase after a ball.
+Hypothesis: There are ten total children playing.
+--------------------------------------------------------------------------------
+
+Error 37 (Index: 698)
+True: neutral | Predicted: entailment
+Premise: A busy street with numerous people interacting and going about their lives.
+Hypothesis: The morning rush hour fills the streets with busy people.
+--------------------------------------------------------------------------------
+
+Error 38 (Index: 699)
+True: neutral | Predicted: entailment
+Premise: A female softball player wearing blue and red crouches in the infield, waiting for the next play.
+Hypothesis: the player is pretty
+--------------------------------------------------------------------------------
+
+Error 39 (Index: 704)
+True: entailment | Predicted: neutral
+Premise: Two people crossing by each other while kite surfing.
+Hypothesis: There is one person outdoors.
+--------------------------------------------------------------------------------
+
+Error 40 (Index: 707)
+True: neutral | Predicted: entailment
+Premise: A variety of people are sitting around a tale doing craft projects.
+Hypothesis: The people are bickering about politics.
+--------------------------------------------------------------------------------
+
+Error 41 (Index: 722)
+True: neutral | Predicted: contradiction
+Premise: A mother and daughter walk along the side of a bridge.
+Hypothesis: A mother and daughter are walking.
+--------------------------------------------------------------------------------
+
+Error 42 (Index: 730)
+True: contradiction | Predicted: neutral
+Premise: Three workers, with life vests and hard hats, on a boat hanging from cables over water.
+Hypothesis: Three lifeguards are haning from the boar, trying to save the dog from drowning.
+--------------------------------------------------------------------------------
+
+Error 43 (Index: 746)
+True: entailment | Predicted: neutral
+Premise: A young man in a blue hoodie doing a flip off of a half-wall that is covered in graffiti.
+Hypothesis: A young man in a blue hoodie falls off a half-wall that is painted nicely.
+--------------------------------------------------------------------------------
+
+Error 44 (Index: 755)
+True: neutral | Predicted: entailment
+Premise: A crowd wearing orange cheering for their team in a stadium.
+Hypothesis: Fans cheering on their team at the big game.
+--------------------------------------------------------------------------------
+
+Error 45 (Index: 798)
+True: contradiction | Predicted: neutral
+Premise: Workers standing on a lift.
+Hypothesis: Workers walk off a lift
+--------------------------------------------------------------------------------
+
+Error 46 (Index: 810)
+True: neutral | Predicted: entailment
+Premise: A golfer is getting ready to putt on the green, with a crowd of people watching in the background.
+Hypothesis: A golfer readies to putt the ball.
+--------------------------------------------------------------------------------
+
+Error 47 (Index: 820)
+True: neutral | Predicted: contradiction
+Premise: A person is sitting in front of a graffiti covered wall.
+Hypothesis: A person is sitting outside
+--------------------------------------------------------------------------------
+
+Error 48 (Index: 828)
+True: entailment | Predicted: neutral
+Premise: A man with a long white beard is examining a camera and another man with a black shirt is in the background.
+Hypothesis: a man is with another man
+--------------------------------------------------------------------------------
+
+Error 49 (Index: 833)
+True: neutral | Predicted: entailment
+Premise: Four women are taking a walk down an icy road.
+Hypothesis: Four women are walking near the dry highway.
+--------------------------------------------------------------------------------
+
+Error 50 (Index: 840)
+True: contradiction | Predicted: neutral
+Premise: A group of footballs players is standing behind a coaching official.
+Hypothesis: There is only one person present.
+--------------------------------------------------------------------------------
+
+Error 51 (Index: 842)
+True: neutral | Predicted: entailment
+Premise: A group of footballs players is standing behind a coaching official.
+Hypothesis: There are multiple people present.
+--------------------------------------------------------------------------------
+
+Error 52 (Index: 845)
+True: neutral | Predicted: entailment
+Premise: Five young men are in a loft, with one holding a whiteboard and one making a shaka sign in front of the television.
+Hypothesis: Some people are at work.
+--------------------------------------------------------------------------------
+
+Error 53 (Index: 850)
+True: entailment | Predicted: neutral
+Premise: People seated at long tables all facing the same direction, some writing and some watching.
+Hypothesis: A group of people are sitting at the tables sharing a meal.
+--------------------------------------------------------------------------------
+
+Error 54 (Index: 856)
+True: contradiction | Predicted: neutral
+Premise: Four women competitively rollerskating around an area.
+Hypothesis: Women rollerskating around an are
+--------------------------------------------------------------------------------
+
+Error 55 (Index: 857)
+True: neutral | Predicted: contradiction
+Premise: Four women competitively rollerskating around an area.
+Hypothesis: four men are rollerskating.
+--------------------------------------------------------------------------------
+
+Error 56 (Index: 871)
+True: neutral | Predicted: entailment
+Premise: Several women wearing dresses dance in the forest.
+Hypothesis: The women are older
+--------------------------------------------------------------------------------
+
+Error 57 (Index: 873)
+True: contradiction | Predicted: entailment
+Premise: A boy in a green shirt on a skateboard on a stone wall with graffiti
+Hypothesis: A long-haired boy riding his skateboard at a fast pace over a stone wall with graffiti.
+--------------------------------------------------------------------------------
+
+Error 58 (Index: 875)
+True: entailment | Predicted: neutral
+Premise: A boy in a green shirt on a skateboard on a stone wall with graffiti
+Hypothesis: A boy in a green shirt rollerblading through the tunnel.
+--------------------------------------------------------------------------------
+
+Error 59 (Index: 895)
+True: contradiction | Predicted: neutral
+Premise: A brown dog carries an object in its mouth on a snowy hillside.
+Hypothesis: A dog is carrying something.
+--------------------------------------------------------------------------------
+
+Error 60 (Index: 906)
+True: neutral | Predicted: entailment
+Premise: A black man wearing a red belt and a white man wearing a blue belt are pictured in the act of practicing martial arts inside a building with a woman looking on in the background.
+Hypothesis: The men are novices at martial arts.
+--------------------------------------------------------------------------------
+
+Error 61 (Index: 915)
+True: contradiction | Predicted: neutral
+Premise: A man is riding a bike along a dirt trail.
+Hypothesis: The man is riding a horse.
+--------------------------------------------------------------------------------
+
+Error 62 (Index: 931)
+True: entailment | Predicted: contradiction
+Premise: A man is working on a Earthen structure with a pickaxe.
+Hypothesis: A man is repairing a dam.
+--------------------------------------------------------------------------------
+
+Error 63 (Index: 938)
+True: entailment | Predicted: contradiction
+Premise: Two older women with a baby that has a pacifier in its mouth, the baby wears an orange and brown dress.
+Hypothesis: The baby is nude.
+--------------------------------------------------------------------------------
+
+Error 64 (Index: 965)
+True: neutral | Predicted: entailment
+Premise: A young boy in a hoodie climbs a red slide sitting on a red and green checkered background.
+Hypothesis: A boy is playing.
+--------------------------------------------------------------------------------
+
+Error 65 (Index: 976)
+True: entailment | Predicted: neutral
+Premise: A smiling girl slides down a purple slide feet first.
+Hypothesis: A frowning boy is playing soccer.
+--------------------------------------------------------------------------------
+
+Error 66 (Index: 988)
+True: entailment | Predicted: neutral
+Premise: Three women are smiling and making cupcakes.
+Hypothesis: The three women are happy about baking cupcakes.
+--------------------------------------------------------------------------------
+
+Error 67 (Index: 993)
+True: contradiction | Predicted: neutral
+Premise: The farmers are out working hard on there tractor, they have on their overalls and the machine is almost fixed.
+Hypothesis: People wearing shorts are standing around doing nothing.
+--------------------------------------------------------------------------------
+
+Error 68 (Index: 1005)
+True: neutral | Predicted: entailment
+Premise: Three children hold a boy's arms down while another boy in a hat shoots a water gun at him.
+Hypothesis: The boy holds down his laughing nephew as his sister sprays him with water.
+--------------------------------------------------------------------------------
+
+Error 69 (Index: 1041)
+True: entailment | Predicted: neutral
+Premise: A man is walking past a large sign that says E.S.E. Electronics.
+Hypothesis: There is a man next to a sign.
+--------------------------------------------------------------------------------
+
+Error 70 (Index: 1056)
+True: entailment | Predicted: neutral
+Premise: A girl in a white knit hat and winter gear rubs her tongue over her braces.
+Hypothesis: It is the winter season.
+--------------------------------------------------------------------------------
+
+Error 71 (Index: 1065)
+True: entailment | Predicted: neutral
+Premise: A schoolgirl is jumping over a low hurdle.
+Hypothesis: A girl is playing a sport in which she is jumping over a hurdle.
+--------------------------------------------------------------------------------
+
+Error 72 (Index: 1085)
+True: entailment | Predicted: contradiction
+Premise: This person in a yellow kayak is riding the rapids.
+Hypothesis: This person is in a hot air balloon
+--------------------------------------------------------------------------------
+
+Error 73 (Index: 1087)
+True: neutral | Predicted: entailment
+Premise: A man in a mask in the back of a service vehicle.
+Hypothesis: A robber is in a police car.
+--------------------------------------------------------------------------------
+
+Error 74 (Index: 1099)
+True: neutral | Predicted: entailment
+Premise: Children bathe in water from large drums.
+Hypothesis: The kids are not reading.
+--------------------------------------------------------------------------------
+
+Error 75 (Index: 1102)
+True: entailment | Predicted: contradiction
+Premise: A member of a Bergwacht team leads a sled laden with orange material while on skis as his colleague stands in the foreground.
+Hypothesis: A man is on skis.
+--------------------------------------------------------------------------------
+
+Error 76 (Index: 1120)
+True: neutral | Predicted: contradiction
+Premise: A man in a suit with a purple striped tie talking to a lady wearing sunglasses.
+Hypothesis: A man is chatting with a lady.
+--------------------------------------------------------------------------------
+
+Error 77 (Index: 1126)
+True: neutral | Predicted: entailment
+Premise: People are standing next to a chain link fence.
+Hypothesis: The people are outside.
+--------------------------------------------------------------------------------
+
+Error 78 (Index: 1127)
+True: neutral | Predicted: contradiction
+Premise: People are standing next to a chain link fence.
+Hypothesis: The people are at a school.
+--------------------------------------------------------------------------------
+
+Error 79 (Index: 1162)
+True: neutral | Predicted: contradiction
+Premise: A brown dog runs through a grassy field
+Hypothesis: A man shoots a rabbit.
+--------------------------------------------------------------------------------
+
+Error 80 (Index: 1173)
+True: entailment | Predicted: contradiction
+Premise: kids are looking at something on a table.
+Hypothesis: Some kids are burning the table down.
+--------------------------------------------------------------------------------
+
+Error 81 (Index: 1174)
+True: neutral | Predicted: contradiction
+Premise: kids are looking at something on a table.
+Hypothesis: Some kids are looking at an insect on the kitchen table.
+--------------------------------------------------------------------------------
+
+Error 82 (Index: 1189)
+True: neutral | Predicted: contradiction
+Premise: There is a group of children getting their picture taken with presents.
+Hypothesis: Children opening presents.
+--------------------------------------------------------------------------------
+
+Error 83 (Index: 1196)
+True: contradiction | Predicted: neutral
+Premise: The big dog is checking out the smaller dog.
+Hypothesis: A mother dog checking up on her baby puppy.
+--------------------------------------------------------------------------------
+
+Error 84 (Index: 1203)
+True: neutral | Predicted: contradiction
+Premise: A person is on a four wheeler kicking up a lot of dirt in a dune.
+Hypothesis: The person is in a race.
+--------------------------------------------------------------------------------
+
+Error 85 (Index: 1207)
+True: entailment | Predicted: neutral
+Premise: An expensive car is parked in what looks like a car-wash with a man standing at the open passenger door side.
+Hypothesis: The man is inside the car.
+--------------------------------------------------------------------------------
+
+Error 86 (Index: 1222)
+True: neutral | Predicted: entailment
+Premise: A female bowler dressed in blue, with another bowler in the background, prepares to throw a ball down the lane.
+Hypothesis: A woman is playing a game
+--------------------------------------------------------------------------------
+
+Error 87 (Index: 1253)
+True: contradiction | Predicted: neutral
+Premise: A bearded man with a backpack on his back holding a tripod in front of a rocky creek and bridge.
+Hypothesis: The man was sitting indoors watching TV.
+--------------------------------------------------------------------------------
+
+Error 88 (Index: 1275)
+True: neutral | Predicted: entailment
+Premise: Three men in Soldier dress and helmets stand with guns outside of a building.
+Hypothesis: There are people patiently awaiting a firefight.
+--------------------------------------------------------------------------------
+
+Error 89 (Index: 1336)
+True: entailment | Predicted: neutral
+Premise: A lady wearing gloves, and a ponytail cooks something while people stand and watch.
+Hypothesis: A lady cooks
+--------------------------------------------------------------------------------
+
+Error 90 (Index: 1350)
+True: entailment | Predicted: neutral
+Premise: A tan dog plays with a white dog in a baby pool.
+Hypothesis: A couple of dogs are sleeping.
+--------------------------------------------------------------------------------
+
+Error 91 (Index: 1399)
+True: entailment | Predicted: neutral
+Premise: A man is renovating a room.
+Hypothesis: A man is laying outside in the grass.
+--------------------------------------------------------------------------------
+
+Error 92 (Index: 1405)
+True: neutral | Predicted: entailment
+Premise: four people standing on a hiking trail in a forest with big tree logs on the ground close to them.
+Hypothesis: Tall humans standing
+--------------------------------------------------------------------------------
+
+Error 93 (Index: 1409)
+True: contradiction | Predicted: neutral
+Premise: Young man performing a skateboard trick on a sidewalk in a city.
+Hypothesis: There is a guy performing a skill on a skateboard on the sidewalk in a metropolitan area.
+--------------------------------------------------------------------------------
+
+Error 94 (Index: 1413)
+True: entailment | Predicted: neutral
+Premise: Two young girls hang tinsel on a Christmas tree in a room with blue curtains.
+Hypothesis: Two girls are in a room with red curtains.
+--------------------------------------------------------------------------------
+
+Error 95 (Index: 1422)
+True: neutral | Predicted: entailment
+Premise: A man wearing a graduation cap, a suit, and an orange shawl walks in front of city shops.
+Hypothesis: A man dressed really strangely is walking in front of some shops.
+--------------------------------------------------------------------------------
+
+Error 96 (Index: 1423)
+True: contradiction | Predicted: neutral
+Premise: A man wearing a graduation cap, a suit, and an orange shawl walks in front of city shops.
+Hypothesis: A woman wearing an evening gown is at a party.
+--------------------------------------------------------------------------------
+
+Error 97 (Index: 1451)
+True: neutral | Predicted: contradiction
+Premise: A man in a black business suit stands upright next to a man wearing blue and leaning against a railing.
+Hypothesis: A man in a black suit is standing next to a man in a blue outfit.
+--------------------------------------------------------------------------------
+
+Error 98 (Index: 1475)
+True: contradiction | Predicted: neutral
+Premise: A group of young adults wait in line outdoors in the daytime.
+Hypothesis: A group of people wait in a line.
+--------------------------------------------------------------------------------
+
+Error 99 (Index: 1482)
+True: entailment | Predicted: neutral
+Premise: A boy in swimming trunks wades out into the water.
+Hypothesis: The young girl gets into the water with her bathing suit.
+--------------------------------------------------------------------------------
+
+Error 100 (Index: 1493)
+True: entailment | Predicted: neutral
+Premise: A blue truck is driving on a desert road carrying several people and lots of assorted cargo.
+Hypothesis: A huge truck driving
+--------------------------------------------------------------------------------
+
+Error 101 (Index: 1505)
+True: entailment | Predicted: neutral
+Premise: Two black labs run, one carrying an orange dog toy.
+Hypothesis: Both dogs are female.
+--------------------------------------------------------------------------------
+
+Error 102 (Index: 1540)
+True: entailment | Predicted: neutral
+Premise: A patient is being worked on by doctors and nurses.
+Hypothesis: A man is at the doctor.
+--------------------------------------------------------------------------------
+
+Error 103 (Index: 1550)
+True: neutral | Predicted: contradiction
+Premise: A large crowd of people talking to each other.
+Hypothesis: People speak a variety of different languages.
+--------------------------------------------------------------------------------
+
+Error 104 (Index: 1557)
+True: entailment | Predicted: neutral
+Premise: An older women looking off into the distance with three older women walking towards her from behind.
+Hypothesis: An older woman is trying to see a billboard that is far away
+--------------------------------------------------------------------------------
+
+Error 105 (Index: 1561)
+True: neutral | Predicted: entailment
+Premise: A man sitting with his head down on his arm and a roll of toilet paper and a cellphone sitting beside him.
+Hypothesis: A man is sitting down.
+--------------------------------------------------------------------------------
+
+Error 106 (Index: 1568)
+True: entailment | Predicted: neutral
+Premise: People dressed in traditional Japanese garb walk in a procession through a courtyard paved with paving stones.
+Hypothesis: People dressed like circus clowns entertain at a child's birthday party.
+--------------------------------------------------------------------------------
+
+Error 107 (Index: 1569)
+True: contradiction | Predicted: neutral
+Premise: A man shows off his spider-web face paint.
+Hypothesis: The little girl asks her father to pick her up.
+--------------------------------------------------------------------------------
+
+Error 108 (Index: 1571)
+True: entailment | Predicted: neutral
+Premise: A man shows off his spider-web face paint.
+Hypothesis: A person shows some people his face painting.
+--------------------------------------------------------------------------------
+
+Error 109 (Index: 1584)
+True: neutral | Predicted: contradiction
+Premise: A smiling man and a baby girl posing for photo.
+Hypothesis: A girl poses for a selfie with her mother.
+--------------------------------------------------------------------------------
+
+Error 110 (Index: 1585)
+True: entailment | Predicted: neutral
+Premise: A smiling man and a baby girl posing for photo.
+Hypothesis: A photo is being taken of a man and a baby girl.
+--------------------------------------------------------------------------------
+
+Error 111 (Index: 1590)
+True: neutral | Predicted: contradiction
+Premise: Pedestrians are gazing at a display of books set out on a sidewalk under a tree.
+Hypothesis: Some people are attending an outdoor book sale.
+--------------------------------------------------------------------------------
+
+Error 112 (Index: 1596)
+True: neutral | Predicted: contradiction
+Premise: A sungalsses vendor gazes into the distance.
+Hypothesis: A vendor talks to a customer
+--------------------------------------------------------------------------------
+
+Error 113 (Index: 1598)
+True: entailment | Predicted: neutral
+Premise: A sungalsses vendor gazes into the distance.
+Hypothesis: A woman vendor gazes into the distance.
+--------------------------------------------------------------------------------
+
+Error 114 (Index: 1602)
+True: neutral | Predicted: entailment
+Premise: A young boy runs across a road in front of a sky blue building with barred windows.
+Hypothesis: A boy runs across a road in front of an abandoned building.
+--------------------------------------------------------------------------------
+
+Error 115 (Index: 1621)
+True: neutral | Predicted: entailment
+Premise: Some men in burgundy coats try to push a car in the snow.
+Hypothesis: They are pushing it off a cliff to cover up a crime.
+--------------------------------------------------------------------------------
+
+Error 116 (Index: 1627)
+True: entailment | Predicted: neutral
+Premise: Women in costume stand on a stage.
+Hypothesis: The women are in a parade.
+--------------------------------------------------------------------------------
+
+Error 117 (Index: 1668)
+True: neutral | Predicted: entailment
+Premise: A man and his son riding bikes down the sidewalk.
+Hypothesis: the man and his son were watching a parade
+--------------------------------------------------------------------------------
+
+Error 118 (Index: 1677)
+True: entailment | Predicted: neutral
+Premise: A group of men are riding a moving walkway.
+Hypothesis: A moving walkway has a group of men riding on it.
+--------------------------------------------------------------------------------
+
+Error 119 (Index: 1682)
+True: contradiction | Predicted: neutral
+Premise: Six men in airport standing on moving walkway
+Hypothesis: Six men are sitting on a park bench.
+--------------------------------------------------------------------------------
+
+Error 120 (Index: 1695)
+True: entailment | Predicted: neutral
+Premise: A woman holding bags behind plantains.
+Hypothesis: The woman is about to shoplift the fruit to make dinner for her cats.
+--------------------------------------------------------------------------------
+
+Error 121 (Index: 1722)
+True: contradiction | Predicted: entailment
+Premise: A band playing on stage in a club.
+Hypothesis: Musicians are playing their instruments at a venue
+--------------------------------------------------------------------------------
+
+Error 122 (Index: 1732)
+True: entailment | Predicted: contradiction
+Premise: A person in full astronaut suit and gear trains in an underwater lab as a scuba diver assists.
+Hypothesis: An astronaut training underwater.
+--------------------------------------------------------------------------------
+
+Error 123 (Index: 1752)
+True: contradiction | Predicted: entailment
+Premise: Dog running through the snow.
+Hypothesis: This is the first time the dog has seen snow.
+--------------------------------------------------------------------------------
+
+Error 124 (Index: 1757)
+True: neutral | Predicted: entailment
+Premise: An elderly women is sitting in a chair on one side of a room with a group of musicians, including a cellist and guitar player, and on the other side of the room, a group of people are sitting on chairs.
+Hypothesis: She is over 80 years old.
+--------------------------------------------------------------------------------
+
+Error 125 (Index: 1761)
+True: neutral | Predicted: contradiction
+Premise: A man wearing a kilt has thrown a large pole.
+Hypothesis: A man is dancing thru the field.
+--------------------------------------------------------------------------------
+
+Error 126 (Index: 1776)
+True: neutral | Predicted: contradiction
+Premise: A young boy with a shaved head and dirty white collared shirt holds a chicken in his arm.
+Hypothesis: The young boy went swimming.
+--------------------------------------------------------------------------------
+
+Error 127 (Index: 1779)
+True: contradiction | Predicted: neutral
+Premise: This is a twisting, turning roller coaster ride, filled with people.
+Hypothesis: The roller coaster ride is empty.
+--------------------------------------------------------------------------------
+
+Error 128 (Index: 1780)
+True: contradiction | Predicted: neutral
+Premise: This is a twisting, turning roller coaster ride, filled with people.
+Hypothesis: The roller coaster ride is filled with people.
+--------------------------------------------------------------------------------
+
+Error 129 (Index: 1846)
+True: neutral | Predicted: entailment
+Premise: An Asian man walks a three-wheeled pedal card fully of white bags.
+Hypothesis: An Asian man transports a group of bags.
+--------------------------------------------------------------------------------
+
+Error 130 (Index: 1852)
+True: neutral | Predicted: entailment
+Premise: A band performing at a local bar or club.
+Hypothesis: The band is playing rock music
+--------------------------------------------------------------------------------
+
+Error 131 (Index: 1865)
+True: entailment | Predicted: neutral
+Premise: A young man in a straw hat, jeans, and a plaid shirt sweeps dust from stone steps in front of a stone building.
+Hypothesis: a man sweeps
+--------------------------------------------------------------------------------
+
+Error 132 (Index: 1915)
+True: contradiction | Predicted: neutral
+Premise: A toddler, sitting next to another girl who is slightly older, is using a bubble machine to blow a large bubble into the air.
+Hypothesis: A toddler and little girl are blowing bubbles.
+--------------------------------------------------------------------------------
+
+Error 133 (Index: 1927)
+True: entailment | Predicted: contradiction
+Premise: The guitarist performs a rocking solo.
+Hypothesis: the musician is performing
+--------------------------------------------------------------------------------
+
+Error 134 (Index: 1964)
+True: neutral | Predicted: contradiction
+Premise: A young boy plays on a pile of rocks.
+Hypothesis: A boy is playing on rocks.
+--------------------------------------------------------------------------------
+
+Error 135 (Index: 2013)
+True: entailment | Predicted: neutral
+Premise: Three people wearing black blindfolds near a "Salvar O Planeta" sign.
+Hypothesis: there are 3 people with blindfolds
+--------------------------------------------------------------------------------
+
+Error 136 (Index: 2028)
+True: neutral | Predicted: contradiction
+Premise: A group of people sitting and knitting.
+Hypothesis: People are sitting.
+--------------------------------------------------------------------------------
+
+Error 137 (Index: 2030)
+True: contradiction | Predicted: neutral
+Premise: A group of people sitting and knitting.
+Hypothesis: A group of women are knitting.
+--------------------------------------------------------------------------------
+
+Error 138 (Index: 2031)
+True: neutral | Predicted: entailment
+Premise: A young Asian girl is wearing a pink dress and holding an umbrella even though it is not raining.
+Hypothesis: The girl in a pink dress uses an umbrella for a sun shade.
+--------------------------------------------------------------------------------
+
+Error 139 (Index: 2043)
+True: neutral | Predicted: entailment
+Premise: A boy in sports themed pajamas is in front of a Christmas tree.
+Hypothesis: the kid is in front of the tree
+--------------------------------------------------------------------------------
+
+Error 140 (Index: 2050)
+True: neutral | Predicted: entailment
+Premise: A man is laid back in front of a tv.
+Hypothesis: he is watching the news
+--------------------------------------------------------------------------------
+
+Error 141 (Index: 2055)
+True: contradiction | Predicted: neutral
+Premise: Woman running in a park while listening to music.
+Hypothesis: A woman exercising for the day.
+--------------------------------------------------------------------------------
+
+Error 142 (Index: 2058)
+True: entailment | Predicted: neutral
+Premise: Two hockey players on opposing teams, one in a red and white jersey and one in a blue and black jersey, are standing on the rink.
+Hypothesis: Two opponents are getting ready to face off in a Hockey game.
+--------------------------------------------------------------------------------
+
+Error 143 (Index: 2065)
+True: neutral | Predicted: entailment
+Premise: An Asian woman in a hat is measuring food from barrels with a ladle into a smaller metal pan.
+Hypothesis: A woman is measuring out wine from a barrel.
+--------------------------------------------------------------------------------
+
+Error 144 (Index: 2068)
+True: neutral | Predicted: entailment
+Premise: A man in a hard hat, gray t-shirt and holding a cordless drill saluting in front of a large American flag.
+Hypothesis: A construction man takes a break to salute the flag.
+--------------------------------------------------------------------------------
+
+Error 145 (Index: 2079)
+True: neutral | Predicted: entailment
+Premise: Boy with red shorts getting soaked with water.
+Hypothesis: A boy is getting splashed.
+--------------------------------------------------------------------------------
+
+Error 146 (Index: 2146)
+True: neutral | Predicted: entailment
+Premise: A woman in an apron is looking for bread.
+Hypothesis: A woman is talking on the phone in her bedroom.
+--------------------------------------------------------------------------------
+
+Error 147 (Index: 2152)
+True: entailment | Predicted: neutral
+Premise: A girl in a pink sundress pushes a scooter past a row of orange construction barrels.
+Hypothesis: The girl is wearing shoes
+--------------------------------------------------------------------------------
+
+Error 148 (Index: 2160)
+True: neutral | Predicted: entailment
+Premise: A couple walking down the street.
+Hypothesis: An old couple walking, holding hands
+--------------------------------------------------------------------------------
+
+Error 149 (Index: 2164)
+True: neutral | Predicted: contradiction
+Premise: A woman fell in the water after riding a wakeboard.
+Hypothesis: A woman is wakeboarding.
+--------------------------------------------------------------------------------
+
+Error 150 (Index: 2172)
+True: neutral | Predicted: entailment
+Premise: A boy in a swing.
+Hypothesis: a boy playing
+--------------------------------------------------------------------------------
+
+Error 151 (Index: 2186)
+True: entailment | Predicted: contradiction
+Premise: Six males, four with shirts and two without, have taken a break from their construction work on a building.
+Hypothesis: A construction crew is sitting and standing next to a building.
+--------------------------------------------------------------------------------
+
+Error 152 (Index: 2190)
+True: neutral | Predicted: entailment
+Premise: A man in a colorful shirt and a lady in a white blouse sign copies of books for people.
+Hypothesis: Two people sign copies of books.
+--------------------------------------------------------------------------------
+
+Error 153 (Index: 2203)
+True: contradiction | Predicted: entailment
+Premise: A brown dog is in the middle of a line of dogs chasing a dirty tennis ball over dirt.
+Hypothesis: The tennis ball is clean.
+--------------------------------------------------------------------------------
+
+Error 154 (Index: 2207)
+True: neutral | Predicted: contradiction
+Premise: Pretty spring trees are shown with a man standing with his hands on his hips, and a large tree trunk in the front of the picture.
+Hypothesis: A person surrounded by spring trees.
+--------------------------------------------------------------------------------
+
+Error 155 (Index: 2220)
+True: neutral | Predicted: contradiction
+Premise: several people are bike riding.
+Hypothesis: A team of polo players are practicing with their horses.
+--------------------------------------------------------------------------------
+
+Error 156 (Index: 2225)
+True: neutral | Predicted: contradiction
+Premise: A man with long red-hair, a brown shirt and plaid pants sells fruit in a market.
+Hypothesis: A man has long red hair
+--------------------------------------------------------------------------------
+
+Error 157 (Index: 2226)
+True: neutral | Predicted: entailment
+Premise: Two skateboarders, one wearing a black t-shirt and the other wearing a white t-shirt, race each other.
+Hypothesis: Skateboarders race for money.
+--------------------------------------------------------------------------------
+
+Error 158 (Index: 2251)
+True: entailment | Predicted: neutral
+Premise: A couple about to kiss somewhere.
+Hypothesis: A couple is throwing food at passing cars.
+--------------------------------------------------------------------------------
+
+Error 159 (Index: 2285)
+True: contradiction | Predicted: neutral
+Premise: This off-roading driver has tipped his truck.
+Hypothesis: A Ferrari goes through the drive-thru.
+--------------------------------------------------------------------------------
+
+Error 160 (Index: 2326)
+True: entailment | Predicted: neutral
+Premise: A lady in a white religious gown is being questioned by many people as she walks.
+Hypothesis: people were chasing the white dressed angel
+--------------------------------------------------------------------------------
+
+Error 161 (Index: 2357)
+True: neutral | Predicted: entailment
+Premise: Two boys with blond-hair, wearing striped shirts on a bed.
+Hypothesis: Children playing in the park.
+--------------------------------------------------------------------------------
+
+Error 162 (Index: 2449)
+True: contradiction | Predicted: neutral
+Premise: There are many people in a large room with a lot of furniture with tags on them.
+Hypothesis: People are indoors.
+--------------------------------------------------------------------------------
+
+Error 163 (Index: 2450)
+True: contradiction | Predicted: neutral
+Premise: There are many people in a large room with a lot of furniture with tags on them.
+Hypothesis: A happy couple share a picnic basket for a lunch date at the park.
+--------------------------------------------------------------------------------
+
+Error 164 (Index: 2486)
+True: neutral | Predicted: entailment
+Premise: Dog yawns
+Hypothesis: A dog is singing the National Anthem.
+--------------------------------------------------------------------------------
+
+Error 165 (Index: 2507)
+True: entailment | Predicted: neutral
+Premise: A male with a prosthetic leg diving for a volleyball.
+Hypothesis: The male is playing soccer.
+--------------------------------------------------------------------------------
+
+Error 166 (Index: 2511)
+True: neutral | Predicted: entailment
+Premise: Two women in tank tops are drinking.
+Hypothesis: Two women in tank tops drinking
+--------------------------------------------------------------------------------
+
+Error 167 (Index: 2530)
+True: neutral | Predicted: entailment
+Premise: Man sits at the doorway of barber shop.
+Hypothesis: the man is a barber
+--------------------------------------------------------------------------------
+
+Error 168 (Index: 2540)
+True: entailment | Predicted: neutral
+Premise: Cityscape with four men on bikes serving as the focal point of picture.
+Hypothesis: Bike rental as low as 9.99 an hour.
+--------------------------------------------------------------------------------
+
+Error 169 (Index: 2584)
+True: entailment | Predicted: neutral
+Premise: The white dog runs across the snow.
+Hypothesis: The dog is outside.
+--------------------------------------------------------------------------------
+
+Error 170 (Index: 2609)
+True: neutral | Predicted: contradiction
+Premise: Man racing a quad on a dirt racetrack.
+Hypothesis: A man racing on a dirt track.
+--------------------------------------------------------------------------------
+
+Error 171 (Index: 2621)
+True: neutral | Predicted: entailment
+Premise: The player in the white dribbles the ball, while the player in the orange tries to stop him.
+Hypothesis: The player in white and the player in orange are participating in a pick-up game of basketball at the gym.
+--------------------------------------------------------------------------------
+
+Error 172 (Index: 2628)
+True: neutral | Predicted: entailment
+Premise: Women enjoying a game of table tennis.
+Hypothesis: Women are playing ping pong.
+--------------------------------------------------------------------------------
+
+Error 173 (Index: 2630)
+True: neutral | Predicted: entailment
+Premise: Women enjoying a game of table tennis.
+Hypothesis: Women are reading books.
+--------------------------------------------------------------------------------
+
+Error 174 (Index: 2637)
+True: neutral | Predicted: entailment
+Premise: Soccer players are playing a night game and the ball is in the air, while the two teams fight for it.
+Hypothesis: The sun was shining during the soccer match.
+--------------------------------------------------------------------------------
+
+Error 175 (Index: 2646)
+True: contradiction | Predicted: neutral
+Premise: People standing with their bicycles.
+Hypothesis: The people are taking a break from riding their bikes.
+--------------------------------------------------------------------------------
+
+Error 176 (Index: 2651)
+True: neutral | Predicted: contradiction
+Premise: A man with glasses wearing a tuxedo and corsage stands near a man in a suit at a formal event.
+Hypothesis: The two men are wearing surfer shorts and tank tops.
+--------------------------------------------------------------------------------
+
+Error 177 (Index: 2668)
+True: neutral | Predicted: entailment
+Premise: A young man in a white hat is playing golf with an older man wearing a blue, long-sleeved shirt and khakis.
+Hypothesis: There are people of differing ages outside playing golf.
+--------------------------------------------------------------------------------
+
+Error 178 (Index: 2683)
+True: entailment | Predicted: neutral
+Premise: A man and woman setup a camera.
+Hypothesis: A man and woman working on a washing machine
+--------------------------------------------------------------------------------
+
+Error 179 (Index: 2687)
+True: contradiction | Predicted: neutral
+Premise: Two children are looking through a telescope on a city street, and the boy is using a step ladder to see through the eyeglass.
+Hypothesis: Two children are testing out their new telescope and seeing what they can see on the street.
+--------------------------------------------------------------------------------
+
+Error 180 (Index: 2700)
+True: contradiction | Predicted: neutral
+Premise: A man with a tan jacket with a full grocery bag is crossing the street.
+Hypothesis: The man is wearing nothing but a t shirt.
+--------------------------------------------------------------------------------
+
+Error 181 (Index: 2701)
+True: contradiction | Predicted: entailment
+Premise: A man with a tan jacket with a full grocery bag is crossing the street.
+Hypothesis: The man just went shopping at the grocery store.
+--------------------------------------------------------------------------------
+
+Error 182 (Index: 2705)
+True: neutral | Predicted: contradiction
+Premise: A large crowd is gathered outside and one woman is yelling.
+Hypothesis: A protest is assembling.
+--------------------------------------------------------------------------------
+
+Error 183 (Index: 2737)
+True: contradiction | Predicted: neutral
+Premise: Construction worker looking over the job site.
+Hypothesis: This worker is in charge of everyone
+--------------------------------------------------------------------------------
+
+Error 184 (Index: 2783)
+True: entailment | Predicted: neutral
+Premise: A scientist studies a slide in order to work on her new creation.
+Hypothesis: A woman standing near a microscope.
+--------------------------------------------------------------------------------
+
+Error 185 (Index: 2801)
+True: neutral | Predicted: entailment
+Premise: A man in a purple mascot costume is standing outside of a store while a man and a woman each wearing flamboyant clothing stand off to the side.
+Hypothesis: The costume is promoting the man's work.
+--------------------------------------------------------------------------------
+
+Error 186 (Index: 2804)
+True: entailment | Predicted: neutral
+Premise: A person in a large pink triangle-shaped costume waves as a man and a woman dressed in matching brightly-colored striped and polka-dotted outfits smile back.
+Hypothesis: The person is marching in a parade.
+--------------------------------------------------------------------------------
+
+Error 187 (Index: 2817)
+True: contradiction | Predicted: neutral
+Premise: A big black poodle running on the grass with a toy in its mouth.
+Hypothesis: A dog is playing outside.
+--------------------------------------------------------------------------------
+
+Error 188 (Index: 2826)
+True: neutral | Predicted: contradiction
+Premise: A man stands on a dock near several boats, while 2 other men are on one of the boats.
+Hypothesis: A man is standing.
+--------------------------------------------------------------------------------
+
+Error 189 (Index: 2855)
+True: entailment | Predicted: neutral
+Premise: A man wearing a hat and boots is digging for something in the snow.
+Hypothesis: A man is trying to get to something by digging.
+--------------------------------------------------------------------------------
+
+Error 190 (Index: 2859)
+True: entailment | Predicted: neutral
+Premise: A guy in a blue shirt chases a guy in an orange shirt during a game of flag football.
+Hypothesis: Two people are playing flag football at the park.
+--------------------------------------------------------------------------------
+
+Error 191 (Index: 2860)
+True: contradiction | Predicted: neutral
+Premise: A guy in a blue shirt chases a guy in an orange shirt during a game of flag football.
+Hypothesis: Two people are playing flag football.
+--------------------------------------------------------------------------------
+
+Error 192 (Index: 2873)
+True: neutral | Predicted: entailment
+Premise: A boy toddler is holding a bat he is about to swing at a pinata.
+Hypothesis: A child is about to hit the panda with a bat.
+--------------------------------------------------------------------------------
+
+Error 193 (Index: 2876)
+True: entailment | Predicted: neutral
+Premise: Female in a military uniform with her hair tied back.
+Hypothesis: the female is wearing her hair up
+--------------------------------------------------------------------------------
+
+Error 194 (Index: 2881)
+True: contradiction | Predicted: entailment
+Premise: A woman in a striped shirt holds an infant.
+Hypothesis: A person is watching TV.
+--------------------------------------------------------------------------------
+
+Error 195 (Index: 2885)
+True: entailment | Predicted: neutral
+Premise: a man playing guitar and signing next to a woman in a dress playing an instrument
+Hypothesis: A man and woman make music.
+--------------------------------------------------------------------------------
+
+Error 196 (Index: 2888)
+True: neutral | Predicted: entailment
+Premise: Two young musicians play from a stage.
+Hypothesis: Two people on a stage
+--------------------------------------------------------------------------------
+
+Error 197 (Index: 2896)
+True: neutral | Predicted: contradiction
+Premise: Mother and daughter are meeting for the first time.
+Hypothesis: The mother and daughter are meeting over lunch.
+--------------------------------------------------------------------------------
+
+Error 198 (Index: 2915)
+True: neutral | Predicted: entailment
+Premise: Man and woman rowing on surfboards third rower in distance.
+Hypothesis: Couple going fishing.
+--------------------------------------------------------------------------------
+
+Error 199 (Index: 2931)
+True: neutral | Predicted: entailment
+Premise: A team of men, three in red shirts and two others in baseball jerseys, re-surface a baseball diamond with specialized tools.
+Hypothesis: A grounds crew maintain a park.
+--------------------------------------------------------------------------------
+
+Error 200 (Index: 2971)
+True: neutral | Predicted: entailment
+Premise: It is a march of people of different backgrounds all walking and one guy in a green shirt holds a flag.
+Hypothesis: A man holds a flag.
+--------------------------------------------------------------------------------
+
+Error 201 (Index: 2973)
+True: contradiction | Predicted: entailment
+Premise: Two dirt bike riders, one wearing green and the other wearing blue and white, are jumping a hill.
+Hypothesis: Two dirt bike riders are outside
+--------------------------------------------------------------------------------
+
+Error 202 (Index: 2974)
+True: neutral | Predicted: contradiction
+Premise: Two dirt bike riders, one wearing green and the other wearing blue and white, are jumping a hill.
+Hypothesis: Two guys are driving buses
+--------------------------------------------------------------------------------
+
+Error 203 (Index: 3013)
+True: neutral | Predicted: entailment
+Premise: A man visiting a friend in the hospital.
+Hypothesis: A man in a hospital receives a visiting friend.
+--------------------------------------------------------------------------------
+
+Error 204 (Index: 3023)
+True: entailment | Predicted: neutral
+Premise: Four men are sitting in front of two large windows; one man is playing a guitar, one is playing the bongo drums, and two are sitting back without instruments.
+Hypothesis: The four men are playing hockey.
+--------------------------------------------------------------------------------
+
+Error 205 (Index: 3030)
+True: neutral | Predicted: entailment
+Premise: Stick figures in the middle of the street.
+Hypothesis: A picture of the ocean
+--------------------------------------------------------------------------------
+
+Error 206 (Index: 3033)
+True: entailment | Predicted: neutral
+Premise: Cook handling hot tray with food on it.
+Hypothesis: cook prepares food
+--------------------------------------------------------------------------------
+
+Error 207 (Index: 3062)
+True: entailment | Predicted: neutral
+Premise: A brown-haired woman in a blue shirt decorated with gold trimmings paints a picture of two windows.
+Hypothesis: A woman is painting.
+--------------------------------------------------------------------------------
+
+Error 208 (Index: 3070)
+True: contradiction | Predicted: neutral
+Premise: A young man at a bowling alley posing on the scoring machine.
+Hypothesis: A young man is at the bowling alley.
+--------------------------------------------------------------------------------
+
+Error 209 (Index: 3074)
+True: neutral | Predicted: contradiction
+Premise: A local street in an Arabic country where there is a market selling Coca-Cola.
+Hypothesis: A market is selling soft drinks in an Arabic country.
+--------------------------------------------------------------------------------
+
+Error 210 (Index: 3103)
+True: contradiction | Predicted: neutral
+Premise: A woman in skirt, torn stockings and combat boots and a man in aviators and batman tank top walk down a city street.
+Hypothesis: A woman dances with a man in a busy club.
+--------------------------------------------------------------------------------
+
+Error 211 (Index: 3105)
+True: entailment | Predicted: contradiction
+Premise: Women in blue dress singing on stage.
+Hypothesis: A woman is singing for the first time.
+--------------------------------------------------------------------------------
+
+Error 212 (Index: 3152)
+True: neutral | Predicted: entailment
+Premise: A girl reaches up to kiss a cat, which is sitting on the counter.
+Hypothesis: A girl is kissing her cat in the kitchen.
+--------------------------------------------------------------------------------
+
+Error 213 (Index: 3153)
+True: contradiction | Predicted: neutral
+Premise: A man playing a piano
+Hypothesis: A boy is playing trombone.
+--------------------------------------------------------------------------------
+
+Error 214 (Index: 3155)
+True: entailment | Predicted: neutral
+Premise: A man playing a piano
+Hypothesis: The man's hands are on the keys of a piano.
+--------------------------------------------------------------------------------
+
+Error 215 (Index: 3159)
+True: neutral | Predicted: entailment
+Premise: A man plays a piano painted with an image of a woman on it.
+Hypothesis: A man plays a piano.
+--------------------------------------------------------------------------------
+
+Error 216 (Index: 3166)
+True: contradiction | Predicted: neutral
+Premise: Fireworks light up the night as a man stands on stage.
+Hypothesis: The fireworks were shot into the sky.
+--------------------------------------------------------------------------------
+
+Error 217 (Index: 3172)
+True: neutral | Predicted: entailment
+Premise: Two men are in blue life jackets and sitting on innertubes with "Crusher" written on them in the middle of a body of water.
+Hypothesis: The two men are enjoying an afternoon in the water together after a tough workweek.
+--------------------------------------------------------------------------------
+
+Error 218 (Index: 3174)
+True: neutral | Predicted: contradiction
+Premise: Two men are laying floor tiles in a doorway.
+Hypothesis: Two men are being lazy.
+--------------------------------------------------------------------------------
+
+Error 219 (Index: 3208)
+True: contradiction | Predicted: neutral
+Premise: Several people browse through books at a store with a tile floor.
+Hypothesis: There are a lot of people looking for a certain book at the local Barnes and Noble.
+--------------------------------------------------------------------------------
+
+Error 220 (Index: 3211)
+True: neutral | Predicted: entailment
+Premise: A father and his daughter are riding a lawn mover down a street while dressed in American colors.
+Hypothesis: two people ride a lawn mower outside
+--------------------------------------------------------------------------------
+
+Error 221 (Index: 3215)
+True: neutral | Predicted: contradiction
+Premise: Shirtless man with long pole navigates covered boat down a palm tree lined river past a hut.
+Hypothesis: A man without a shirt is on a river.
+--------------------------------------------------------------------------------
+
+Error 222 (Index: 3222)
+True: neutral | Predicted: entailment
+Premise: The hockey players and referee are preparing for a face-off.
+Hypothesis: The players and referee are getting ready to start the match.
+--------------------------------------------------------------------------------
+
+Error 223 (Index: 3226)
+True: neutral | Predicted: entailment
+Premise: A woman in a gray kimono walks past a black car in the middle of a crowded street full of Japanese signs, with a man in an orange shirt and khaki slacks.
+Hypothesis: A woman is walking down a busy street in Tokyo.
+--------------------------------------------------------------------------------
+
+Error 224 (Index: 3234)
+True: contradiction | Predicted: neutral
+Premise: One girl sips a soda while another looks on, standing on a street in front of a bunch of bicycles.
+Hypothesis: A girl drinks a soda on the street
+--------------------------------------------------------------------------------
+
+Error 225 (Index: 3239)
+True: contradiction | Predicted: neutral
+Premise: Two young ladies walking down the street together.
+Hypothesis: The two woman are sisters, and are on their way to their mutual friends house down the street.
+--------------------------------------------------------------------------------
+
+Error 226 (Index: 3250)
+True: entailment | Predicted: neutral
+Premise: Two little girls, wearing pink hanging on a tube.
+Hypothesis: Two girls wearing blue sit on a couch.
+--------------------------------------------------------------------------------
+
+Error 227 (Index: 3253)
+True: neutral | Predicted: contradiction
+Premise: A family smiling on the couch.
+Hypothesis: A family is playing out in their backyard.
+--------------------------------------------------------------------------------
+
+Error 228 (Index: 3266)
+True: entailment | Predicted: contradiction
+Premise: Two girls in red life jackets lock oars on a river.
+Hypothesis: Two girls on a boat.
+--------------------------------------------------------------------------------
+
+Error 229 (Index: 3271)
+True: neutral | Predicted: entailment
+Premise: Nurses in a medical setting conversing over a plastic cup.
+Hypothesis: The nurses are eating lunch.
+--------------------------------------------------------------------------------
+
+Error 230 (Index: 3324)
+True: entailment | Predicted: neutral
+Premise: Women sit on a beach as they watch men bring in a fishing net filled with fish in front of them.
+Hypothesis: People are gathered on a sunny day at the beach.
+--------------------------------------------------------------------------------
+
+Error 231 (Index: 3346)
+True: entailment | Predicted: contradiction
+Premise: The 3 dogs are cruising down the street.
+Hypothesis: three dogs together
+--------------------------------------------------------------------------------
+
+Error 232 (Index: 3349)
+True: neutral | Predicted: contradiction
+Premise: A boy whiffs a ball with a bat.
+Hypothesis: The boy is swinging a golf club.
+--------------------------------------------------------------------------------
+
+Error 233 (Index: 3350)
+True: contradiction | Predicted: neutral
+Premise: A boy whiffs a ball with a bat.
+Hypothesis: The boy is playing baseball.
+--------------------------------------------------------------------------------
+
+Error 234 (Index: 3401)
+True: contradiction | Predicted: neutral
+Premise: Two people sitting on the sand.
+Hypothesis: There are two people at the beach.
+--------------------------------------------------------------------------------
+
+Error 235 (Index: 3442)
+True: neutral | Predicted: entailment
+Premise: A child in a jeans jacket and shorts holding up a white dress as another darker-skinned child looks at it.
+Hypothesis: a child likes the dress
+--------------------------------------------------------------------------------
+
+Error 236 (Index: 3466)
+True: neutral | Predicted: entailment
+Premise: In front of a brick house with a straw roof and some figures, three children stand, two of them holding squares of blackboard.
+Hypothesis: The children are putting out a fire nearby
+--------------------------------------------------------------------------------
+
+Error 237 (Index: 3493)
+True: neutral | Predicted: contradiction
+Premise: Children playing a video game together.
+Hypothesis: The children are having fun together.
+--------------------------------------------------------------------------------
+
+Error 238 (Index: 3494)
+True: neutral | Predicted: contradiction
+Premise: Children playing a video game together.
+Hypothesis: The kids are indoors playing a video game.
+--------------------------------------------------------------------------------
+
+Error 239 (Index: 3496)
+True: neutral | Predicted: entailment
+Premise: There are children playing in the snow and one of them is making a snowball.
+Hypothesis: Children play in the snow.
+--------------------------------------------------------------------------------
+
+Error 240 (Index: 3516)
+True: neutral | Predicted: entailment
+Premise: A rally in a different country.
+Hypothesis: A big rally in a different country.
+--------------------------------------------------------------------------------
+
+Error 241 (Index: 3520)
+True: neutral | Predicted: contradiction
+Premise: A man in a blue shirt is performing a skateboarding trick near stiars while two other men watch.
+Hypothesis: A person in a shirt
+--------------------------------------------------------------------------------
+
+Error 242 (Index: 3525)
+True: entailment | Predicted: neutral
+Premise: A musician playing a guitar while he has the microphone inside his mouth.
+Hypothesis: The man is in a heavy metal band.
+--------------------------------------------------------------------------------
+
+Error 243 (Index: 3543)
+True: neutral | Predicted: contradiction
+Premise: Someone splashing in the water.
+Hypothesis: The woman splashes as she tries to keep from drowning in the river.
+--------------------------------------------------------------------------------
+
+Error 244 (Index: 3550)
+True: neutral | Predicted: entailment
+Premise: A boy dressed in an orange shirt and a helmet is riding a dirt bike in the woods.
+Hypothesis: A boy in orange rides his fathers dirt bike.
+--------------------------------------------------------------------------------
+
+Error 245 (Index: 3565)
+True: contradiction | Predicted: entailment
+Premise: A man is looking at the camera posing for a photo with his arm around a woman who is looking away.
+Hypothesis: A man is looking at the camera for a photo with his arm around a lady who is looking away.
+--------------------------------------------------------------------------------
+
+Error 246 (Index: 3650)
+True: neutral | Predicted: contradiction
+Premise: Young boy smiles at the camera from the tire swing.
+Hypothesis: He is outside.
+--------------------------------------------------------------------------------
+
+Error 247 (Index: 3663)
+True: neutral | Predicted: contradiction
+Premise: A group of women sing together while wearing matching black dresses.
+Hypothesis: There are women singing.
+--------------------------------------------------------------------------------
+
+Error 248 (Index: 3672)
+True: neutral | Predicted: entailment
+Premise: Two dogs in a grassy field.
+Hypothesis: Two dogs are playing outside.
+--------------------------------------------------------------------------------
+
+Error 249 (Index: 3695)
+True: neutral | Predicted: entailment
+Premise: Little girl with very curly hair drinking her cup of juice.
+Hypothesis: A girl with curly hair is drinking through a straw.
+--------------------------------------------------------------------------------
+
+Error 250 (Index: 3701)
+True: neutral | Predicted: entailment
+Premise: Two boys inside a fence jump in the air while holding a basketball.
+Hypothesis: Two boys jump with excitement.
+--------------------------------------------------------------------------------
+
+Error 251 (Index: 3709)
+True: entailment | Predicted: neutral
+Premise: Two hussars sit perched on horses, dressed in extravagant ceremonial wear, each holding a sabre in their right hand, reigns to the horse in their left.
+Hypothesis: The men are driving their motorcycles.
+--------------------------------------------------------------------------------
+
+Error 252 (Index: 3733)
+True: entailment | Predicted: neutral
+Premise: A speaker is talking with a TV in the background.
+Hypothesis: The tv volume is turned on low.
+--------------------------------------------------------------------------------
+
+Error 253 (Index: 3766)
+True: neutral | Predicted: entailment
+Premise: Two girls in winter jackets, knit hats, and glvoes are outside in the snow.
+Hypothesis: The girls are sitting in front a indoor fireplace
+--------------------------------------------------------------------------------
+
+Error 254 (Index: 3772)
+True: contradiction | Predicted: neutral
+Premise: Three black people, two men and one woman, in the middle of a small, rural street, are piling up items on top of a taxi cab with a net dangling down on top of the windshield, while two children and two other people are nearby.
+Hypothesis: The taxi has nothing on it
+--------------------------------------------------------------------------------
+
+Error 255 (Index: 3774)
+True: neutral | Predicted: entailment
+Premise: A young boy vocalizes in to a microphone held by a blond woman in black.
+Hypothesis: Two girls playing the drums.
+--------------------------------------------------------------------------------
+
+Error 256 (Index: 3775)
+True: entailment | Predicted: neutral
+Premise: A young boy vocalizes in to a microphone held by a blond woman in black.
+Hypothesis: A boy singing.
+--------------------------------------------------------------------------------
+
+Error 257 (Index: 3797)
+True: neutral | Predicted: entailment
+Premise: Four cyclists are racing on an indoor racetrack all wearing the same red, white, and blue uniforms.
+Hypothesis: There are cyclists racing.
+--------------------------------------------------------------------------------
+
+Error 258 (Index: 3798)
+True: neutral | Predicted: entailment
+Premise: A woman in an American military uniform sits at a table and writes the words "sad," "depressed," and "hatred" on a large sheet of white paper.
+Hypothesis:  A woman in an American green military uniform is smiling.
+--------------------------------------------------------------------------------
+
+Error 259 (Index: 3813)
+True: entailment | Predicted: neutral
+Premise: There is a Victorian style building in the background, and in the foreground is a lake where a tiny paddle boat sits with three people in it.
+Hypothesis: Three people sit in a paddle boat.
+--------------------------------------------------------------------------------
+
+Error 260 (Index: 3817)
+True: entailment | Predicted: neutral
+Premise: One man wearing a pink and blue striped shirt, work gloves, and holding a yellow hard hat.
+Hypothesis: A person in a shirt
+--------------------------------------------------------------------------------
+
+Error 261 (Index: 3829)
+True: entailment | Predicted: neutral
+Premise: A man getting a group of children to move around and have fun.
+Hypothesis: A father attempting to encorage his children to run around and have fun outside.
+--------------------------------------------------------------------------------
+
+Error 262 (Index: 3833)
+True: neutral | Predicted: contradiction
+Premise: A tractor decorated as a float for a parade
+Hypothesis: a lawnmover is being repaired
+--------------------------------------------------------------------------------
+
+Error 263 (Index: 3876)
+True: neutral | Predicted: entailment
+Premise: A little girl on a piece of playground equipment
+Hypothesis: A dog watches tv.
+--------------------------------------------------------------------------------
+
+Error 264 (Index: 3882)
+True: contradiction | Predicted: entailment
+Premise: A man in a short Mohawk and beard.
+Hypothesis: There is a man with a ponytail and a mustache.
+--------------------------------------------------------------------------------
+
+Error 265 (Index: 3884)
+True: contradiction | Predicted: neutral
+Premise: A man in a short Mohawk and beard.
+Hypothesis: A man with a short Mohawk and beard stands outside.
+--------------------------------------------------------------------------------
+
+Error 266 (Index: 3890)
+True: neutral | Predicted: entailment
+Premise: A woman is posing in a meadow next to an old truck.
+Hypothesis: A woman is posing in the forest near a motorcycle.
+--------------------------------------------------------------------------------
+
+Error 267 (Index: 3918)
+True: neutral | Predicted: entailment
+Premise: A boy dressed in a plaid kilt with a brown hat wields a long pole.
+Hypothesis: A boy has and object in his hands.
+--------------------------------------------------------------------------------
+
+Error 268 (Index: 3991)
+True: entailment | Predicted: neutral
+Premise: Two men are shirtless on the beach on a beautiful day.
+Hypothesis: Two men are shirtless.
+--------------------------------------------------------------------------------
+
+Error 269 (Index: 3995)
+True: entailment | Predicted: neutral
+Premise: People at a farmer's market.
+Hypothesis: A crowd is at the farmers market.
+--------------------------------------------------------------------------------
+
+Error 270 (Index: 4000)
+True: entailment | Predicted: neutral
+Premise: Man with black shirt and sunglasses makes something out of a balloon.
+Hypothesis: A man makes something from a balloon.
+--------------------------------------------------------------------------------
+
+Error 271 (Index: 4011)
+True: entailment | Predicted: neutral
+Premise: A young man holding a young woman in his arms as they get splashed by water shooting up from a fountain.
+Hypothesis: A couple eat sandwiches together.
+--------------------------------------------------------------------------------
+
+Error 272 (Index: 4015)
+True: contradiction | Predicted: entailment
+Premise: A crowd in which two men are wearing Santa Claus Hats are celebrating Christmas outside of a Bank of America and a Christmas tree.
+Hypothesis: A crowd is celebrating Christmas outside of Bank of America.
+--------------------------------------------------------------------------------
+
+Error 273 (Index: 4020)
+True: neutral | Predicted: entailment
+Premise: Two people are sitting in a chair a lady reading and a man looking to his phone
+Hypothesis: The man and women are standing by a river.
+--------------------------------------------------------------------------------
+
+Error 274 (Index: 4029)
+True: neutral | Predicted: contradiction
+Premise: A young woman wearing jeans, a white t-shirt and a hat, performs a high flying trick on a bicycle at an outdoor bike park.
+Hypothesis: Woman sets bike on fire.
+--------------------------------------------------------------------------------
+
+Error 275 (Index: 4046)
+True: entailment | Predicted: contradiction
+Premise: Two male soccer players on opposing teams are trying to get the soccer ball.
+Hypothesis: Two soccer players fight after the ball until one gets a penalty.
+--------------------------------------------------------------------------------
+
+Error 276 (Index: 4063)
+True: entailment | Predicted: neutral
+Premise: A brown dog persues a Frisbee across the grass as the thrower watches.
+Hypothesis: A dog plays in the park with his owner on a sunny day.
+--------------------------------------------------------------------------------
+
+Error 277 (Index: 4069)
+True: neutral | Predicted: entailment
+Premise: A man with a white beard speaks into a microphone wearing a long-sleeved gray button down shirt.
+Hypothesis: A man with a white beard is sitting quietly on a couch.
+--------------------------------------------------------------------------------
+
+Error 278 (Index: 4084)
+True: neutral | Predicted: entailment
+Premise: A group of Asian girls are standing together.
+Hypothesis: There are many girls standing together.
+--------------------------------------------------------------------------------
+
+Error 279 (Index: 4086)
+True: neutral | Predicted: entailment
+Premise: A cheerful boy rides a makeshift sled down a snowy hill.
+Hypothesis: A boy is enjoying himself while thinking about sliding down a snow hill with his friends
+--------------------------------------------------------------------------------
+
+Error 280 (Index: 4087)
+True: entailment | Predicted: neutral
+Premise: A cheerful boy rides a makeshift sled down a snowy hill.
+Hypothesis: Don't stock up and have fun with the sled
+--------------------------------------------------------------------------------
+
+Error 281 (Index: 4111)
+True: neutral | Predicted: entailment
+Premise: A man in a red shirt is being filmed by another man on a sports field with a huge audience of people watching and cheering.
+Hypothesis: The crowd is very quiet.
+--------------------------------------------------------------------------------
+
+Error 282 (Index: 4123)
+True: neutral | Predicted: entailment
+Premise: A man wearing blue jeans and a peach shirt is arguing with a woman with long gray hair, a red skirt and tan shirt.
+Hypothesis: A man wearing blue jeans and a peach shirt is arguing with a woman
+--------------------------------------------------------------------------------
+
+Error 283 (Index: 4138)
+True: neutral | Predicted: contradiction
+Premise: A crowd gathered on either side of a soap box derby, with a single soap box car on the road track.
+Hypothesis: The people watch as the soap box car drives by them.
+--------------------------------------------------------------------------------
+
+Error 284 (Index: 4140)
+True: neutral | Predicted: entailment
+Premise: A young boy poses behind the netting of an enclosed play area while three other children play.
+Hypothesis: A boy poses in front of children playing
+--------------------------------------------------------------------------------
+
+Error 285 (Index: 4141)
+True: neutral | Predicted: contradiction
+Premise: A young boy poses behind the netting of an enclosed play area while three other children play.
+Hypothesis: A boy poses in front of his siblings playing
+--------------------------------------------------------------------------------
+
+Error 286 (Index: 4153)
+True: entailment | Predicted: neutral
+Premise: Two daschunds play with a red ball
+Hypothesis: A cat in a litter box.
+--------------------------------------------------------------------------------
+
+Error 287 (Index: 4189)
+True: neutral | Predicted: contradiction
+Premise: Three young girls and a baby are sitting in the grass on a blue blanket with baby toys scattered on it.
+Hypothesis: Four sisters play with each other.
+--------------------------------------------------------------------------------
+
+Error 288 (Index: 4208)
+True: entailment | Predicted: neutral
+Premise: A group of women and men are in the water wit their clothes on.
+Hypothesis: They are people in the water with clothes on.
+--------------------------------------------------------------------------------
+
+Error 289 (Index: 4252)
+True: entailment | Predicted: contradiction
+Premise: A sitting man is holding a partially carved stone in front a partially painted wall.
+Hypothesis: The man is a sculptor.
+--------------------------------------------------------------------------------
+
+Error 290 (Index: 4259)
+True: contradiction | Predicted: neutral
+Premise: The wind propels a sailing ship on a group of cruisers.
+Hypothesis: There are many boats out.
+--------------------------------------------------------------------------------
+
+Error 291 (Index: 4278)
+True: entailment | Predicted: neutral
+Premise: A group of runners are running towards two identical skyscrapers.
+Hypothesis: The runners are running towards the large buildings.
+--------------------------------------------------------------------------------
+
+Error 292 (Index: 4306)
+True: neutral | Predicted: entailment
+Premise: A young boy plays with the contents of a pantry and a cash register, pretending he runs a grocery store.
+Hypothesis: A young boy is hitting a pinata.
+--------------------------------------------------------------------------------
+
+Error 293 (Index: 4308)
+True: contradiction | Predicted: neutral
+Premise: A younger man dressed in tribal attire.
+Hypothesis: A young man wheres tribal clothes for a ceremony.
+--------------------------------------------------------------------------------
+
+Error 294 (Index: 4314)
+True: neutral | Predicted: contradiction
+Premise: A man wearing feathers on his head and dressed in a Native American costume, stands in front of a crowd of people on the street.
+Hypothesis: The feathers are colorful.
+--------------------------------------------------------------------------------
+
+Error 295 (Index: 4319)
+True: neutral | Predicted: contradiction
+Premise: An old man in a plaid shirt and blue pants is looking in a telescope on a sunny day.
+Hypothesis: A old man in a plaid shirt buys apples at the market.
+--------------------------------------------------------------------------------
+
+Error 296 (Index: 4325)
+True: entailment | Predicted: neutral
+Premise: A man is posing on a ski board with snow in the background.
+Hypothesis: A man is posing.
+--------------------------------------------------------------------------------
+
+Error 297 (Index: 4328)
+True: neutral | Predicted: entailment
+Premise: A man stands with his arms out inside a large green piece of equipment.
+Hypothesis: He is trying to get it working again.
+--------------------------------------------------------------------------------
+
+Error 298 (Index: 4361)
+True: neutral | Predicted: entailment
+Premise: A silhouette stands at the top of a bowling lane as the ball is about to impact the pins while neon lights race overhead.
+Hypothesis: Someone is in a bowling alley.
+--------------------------------------------------------------------------------
+
+Error 299 (Index: 4378)
+True: entailment | Predicted: neutral
+Premise: A man in reflective sunglasses, a skull T-shirt, and long red shorts sits out of the sun in a folding chair.
+Hypothesis: The man is a hippie.
+--------------------------------------------------------------------------------
+
+Error 300 (Index: 4381)
+True: contradiction | Predicted: neutral
+Premise: children are sitting in chairs with a music stand in the background.
+Hypothesis: Children are having fun at Tommy's birthday party.
+--------------------------------------------------------------------------------
+
+Error 301 (Index: 4396)
+True: entailment | Predicted: neutral
+Premise: man in blue shirt sitting on the side of the road with a wheelbarrow of vegetables
+Hypothesis: A man wheels a wheelbarrow full of vegetables to a store.
+--------------------------------------------------------------------------------
+
+Error 302 (Index: 4402)
+True: entailment | Predicted: neutral
+Premise: Older men sitting in front of a cafe looking out at the street.
+Hypothesis: Older men sitting at a cafe
+--------------------------------------------------------------------------------
+
+Error 303 (Index: 4409)
+True: entailment | Predicted: neutral
+Premise: Artist on street corner selling his artwork.
+Hypothesis: Someone is begging for money.
+--------------------------------------------------------------------------------
+
+Error 304 (Index: 4436)
+True: neutral | Predicted: contradiction
+Premise: A black man wearing tan shorts, a yellow sweatshirt, and a baseball cap is holding up his hand and talking to an Asian woman posing with another young black man while they are holding red flags with yellow stars.
+Hypothesis: the man is a doctor
+--------------------------------------------------------------------------------
+
+Error 305 (Index: 4439)
+True: neutral | Predicted: contradiction
+Premise: A man a woman posing for a picture.
+Hypothesis: A happy young couple are posing for a portrait.
+--------------------------------------------------------------------------------
+
+Error 306 (Index: 4444)
+True: neutral | Predicted: entailment
+Premise: A man and a woman are dancing in the crowd.
+Hypothesis: a couple dances among other people
+--------------------------------------------------------------------------------
+
+Error 307 (Index: 4451)
+True: entailment | Predicted: neutral
+Premise: The backs of a woman and her dog as they walk away from the camera with the dog on a red leash and her in a green tank top.
+Hypothesis: A dog on a red leash getting ready to go to the beach.
+--------------------------------------------------------------------------------
+
+Error 308 (Index: 4464)
+True: neutral | Predicted: entailment
+Premise: A golfer shoots his ball out of a sand trap.
+Hypothesis: A duffer hits to the green using a sand wedge.
+--------------------------------------------------------------------------------
+
+Error 309 (Index: 4472)
+True: neutral | Predicted: contradiction
+Premise: A group of mountain climbers rests at the summit.
+Hypothesis: A scuba diver runs out of air.
+--------------------------------------------------------------------------------
+
+Error 310 (Index: 4481)
+True: entailment | Predicted: neutral
+Premise: A woman holds a newspaper that says "Real change".
+Hypothesis: a woman with a newspaper that says "real change" on the ground next to her
+--------------------------------------------------------------------------------
+
+Error 311 (Index: 4498)
+True: entailment | Predicted: neutral
+Premise: A boy in a yellow t-shirt and pink sweater talks on a cellphone while riding a horse through a crowd of people who are looking on.
+Hypothesis: Nobody has a shirt
+--------------------------------------------------------------------------------
+
+Error 312 (Index: 4500)
+True: entailment | Predicted: neutral
+Premise: A man wearing red ski pants, a black jacket, and a white helmet is skiing down a mountain.
+Hypothesis: The man is alone sleeping in his bedroom on the moon.
+--------------------------------------------------------------------------------
+
+Error 313 (Index: 4520)
+True: entailment | Predicted: neutral
+Premise: The small child is sitting in a red playground swing.
+Hypothesis: The child is crawling in the sand.
+--------------------------------------------------------------------------------
+
+Error 314 (Index: 4529)
+True: entailment | Predicted: neutral
+Premise: Women are sitting around a table at a restaurant chatting.
+Hypothesis: Women are knitting scarves for the homeless.
+--------------------------------------------------------------------------------
+
+Error 315 (Index: 4534)
+True: entailment | Predicted: contradiction
+Premise: Two men cooking, one stirring a pot while making a funny face while the other points at him.
+Hypothesis: Friends are preparing a meal.
+--------------------------------------------------------------------------------
+
+Error 316 (Index: 4552)
+True: entailment | Predicted: neutral
+Premise: A female in the middle of a vehicle is holding a camera and is pointing it towards the backseat.
+Hypothesis: She is playing soccer in a field.
+--------------------------------------------------------------------------------
+
+Error 317 (Index: 4555)
+True: contradiction | Predicted: neutral
+Premise: A man with a light blue t-shirt outside in the open wearing red ear protection while firing a gun.
+Hypothesis: A man is signaling the start of a race.
+--------------------------------------------------------------------------------
+
+Error 318 (Index: 4587)
+True: entailment | Predicted: neutral
+Premise: A small child wearing a helmet is in a baby carrier that is on the floor.
+Hypothesis: The child is wearing a helmet because it is going on a bike ride with its mother soon.
+--------------------------------------------------------------------------------
+
+Error 319 (Index: 4592)
+True: neutral | Predicted: contradiction
+Premise: A person in an orange shirt reaching up.
+Hypothesis: A person is sitting in a chair.
+--------------------------------------------------------------------------------
+
+Error 320 (Index: 4605)
+True: contradiction | Predicted: neutral
+Premise: A large crowd is standing around the start line.
+Hypothesis: People are getting ready to run
+--------------------------------------------------------------------------------
+
+Error 321 (Index: 4624)
+True: neutral | Predicted: contradiction
+Premise: A man in a army uniform is holding a picture with trees in it.
+Hypothesis: The military veteran had entered an art contest and won first place!
+--------------------------------------------------------------------------------
+
+Error 322 (Index: 4625)
+True: neutral | Predicted: contradiction
+Premise: A man in a army uniform is holding a picture with trees in it.
+Hypothesis: The man, wearing scuba gear, jumps off the side of the boat into the ocean below.
+--------------------------------------------------------------------------------
+
+Error 323 (Index: 4684)
+True: neutral | Predicted: entailment
+Premise: A brown dog and black and white dog run along the green grass.
+Hypothesis: Two squirrels run after acorns in the grass.
+--------------------------------------------------------------------------------
+
+Error 324 (Index: 4689)
+True: entailment | Predicted: neutral
+Premise: A man in a blue plaid shirt with black pants is sitting on a box and holding something in his hand.
+Hypothesis: a man waits tables insdie
+--------------------------------------------------------------------------------
+
+Error 325 (Index: 4726)
+True: neutral | Predicted: contradiction
+Premise: A woman carrying a large package on her head walks in front of a building plastered with Portuguese posters advertising a concert.
+Hypothesis: A Brazilian woman carries groceries home.
+--------------------------------------------------------------------------------
+
+Error 326 (Index: 4743)
+True: entailment | Predicted: neutral
+Premise: An old Indian man dressed in rags sleeps on the ground using his backpack as a pillow.
+Hypothesis: An old Indian man is running on the ground.
+--------------------------------------------------------------------------------
+
+Error 327 (Index: 4758)
+True: neutral | Predicted: entailment
+Premise: A basketball player in a red uniform is trying to make a basket but is being blocked by the opposing team.
+Hypothesis: A basketball player is playing basketball.
+--------------------------------------------------------------------------------
+
+Error 328 (Index: 4773)
+True: entailment | Predicted: neutral
+Premise: A clown performs in a park among other people.
+Hypothesis: Inside the closet is dark.
+--------------------------------------------------------------------------------
+
+Error 329 (Index: 4779)
+True: entailment | Predicted: neutral
+Premise: A young boy using a spatula to handle meat on a grill.
+Hypothesis: A young boy is grilling steak.
+--------------------------------------------------------------------------------
+
+Error 330 (Index: 4782)
+True: entailment | Predicted: neutral
+Premise: A man is making a phone call.
+Hypothesis: A man is on the phone.
+--------------------------------------------------------------------------------
+
+Error 331 (Index: 4798)
+True: entailment | Predicted: neutral
+Premise: Two hikers are backpacking up a snow slope.
+Hypothesis: Two people are hiking with backpacks on in warm weather.
+--------------------------------------------------------------------------------
+
+Error 332 (Index: 4799)
+True: neutral | Predicted: entailment
+Premise: Two hikers are backpacking up a snow slope.
+Hypothesis: Two people are hiking with backpacks up a snowy slope.
+--------------------------------------------------------------------------------
+
+Error 333 (Index: 4806)
+True: entailment | Predicted: neutral
+Premise: A dark-skinned person, crouched while painting a sign.
+Hypothesis: A black man is painting a protest sign.
+--------------------------------------------------------------------------------
+
+Error 334 (Index: 4815)
+True: neutral | Predicted: entailment
+Premise: A young man is playing a blue guitar.
+Hypothesis: The man is playing the guitar.
+--------------------------------------------------------------------------------
+
+Error 335 (Index: 4836)
+True: neutral | Predicted: contradiction
+Premise: A woman wearing white and black carries a serving tray.
+Hypothesis: A woman is carrying a serving tray.
+--------------------------------------------------------------------------------
+
+Error 336 (Index: 4860)
+True: neutral | Predicted: entailment
+Premise: A little boy punching out flashcards from the cardboard they came in.
+Hypothesis: A boy punches his new flashcards from the carboard they came i.
+--------------------------------------------------------------------------------
+
+Error 337 (Index: 4883)
+True: neutral | Predicted: contradiction
+Premise: A girl in black pants doing exercises.
+Hypothesis: A girl trying to get fit for a bodybuilding competition.
+--------------------------------------------------------------------------------
+
+Error 338 (Index: 4887)
+True: neutral | Predicted: contradiction
+Premise: Family gathered together in a house enjoying each other company.
+Hypothesis: A family is out to eat at a restaurant.
+--------------------------------------------------------------------------------
+
+Error 339 (Index: 4906)
+True: entailment | Predicted: neutral
+Premise: A woman in a long, dark coat looks through trashcans in Winter.
+Hypothesis: A woman is standing by a fire pit.
+--------------------------------------------------------------------------------
+
+Error 340 (Index: 4922)
+True: contradiction | Predicted: neutral
+Premise: A bald man with a white shirt and watch eating food and drinking wine.
+Hypothesis: There is a bald man.
+--------------------------------------------------------------------------------
+
+Error 341 (Index: 4924)
+True: neutral | Predicted: contradiction
+Premise: Three children, two boys and a girl, are playing with the swings on a playground with residential houses in the background.
+Hypothesis: The children are less than 20 yrs old.
+--------------------------------------------------------------------------------
+
+Error 342 (Index: 4965)
+True: neutral | Predicted: entailment
+Premise: A man holding a briefcase on a subway.
+Hypothesis: A man is standing in the middle of a field with a briefcase.
+--------------------------------------------------------------------------------
+
+Error 343 (Index: 4966)
+True: neutral | Predicted: entailment
+Premise: A young barefoot girl wearing a helmet walks down a mossy covered fallen down tree.
+Hypothesis: A young bicycle rider walks on top of a downed tree for fun.
+--------------------------------------------------------------------------------
+
+Error 344 (Index: 4973)
+True: entailment | Predicted: neutral
+Premise: The boy in pajama pants jumps off the sofa.
+Hypothesis: The boy is sitting on the couch
+--------------------------------------------------------------------------------
+
+Error 345 (Index: 4974)
+True: neutral | Predicted: contradiction
+Premise: The boy in pajama pants jumps off the sofa.
+Hypothesis: The boy is bouncing on the sofa
+--------------------------------------------------------------------------------
+
+Error 346 (Index: 4982)
+True: neutral | Predicted: entailment
+Premise: The man in white is playing basketball against the man in blue.
+Hypothesis: A woman wearing red plays hockey.
+--------------------------------------------------------------------------------
+
+Error 347 (Index: 4988)
+True: neutral | Predicted: contradiction
+Premise: Five boys in blue shirts drawing at a table.
+Hypothesis: The boys are wearing red shirts.
+--------------------------------------------------------------------------------
+
+Error 348 (Index: 4989)
+True: contradiction | Predicted: neutral
+Premise: Five boys in blue shirts drawing at a table.
+Hypothesis: There are children wearing blue.
+--------------------------------------------------------------------------------
+
+Error 349 (Index: 5000)
+True: neutral | Predicted: contradiction
+Premise: A woman in a black hooded sweatshirt walking with a large dog.
+Hypothesis: A woman walking a dog
+--------------------------------------------------------------------------------
+
+Error 350 (Index: 5002)
+True: neutral | Predicted: contradiction
+Premise: A group of people are ice skating in a big city.
+Hypothesis: The people are outside skating.
+--------------------------------------------------------------------------------
+
+Error 351 (Index: 5007)
+True: neutral | Predicted: contradiction
+Premise: A girl wearing a knit cap, gloves, winter jacket, snow pants and boots stands by a frozen waterfall, with a metal pole by her side.
+Hypothesis: A young girl is by a waterfall.
+--------------------------------------------------------------------------------
+
+Error 352 (Index: 5015)
+True: neutral | Predicted: entailment
+Premise: a woman and a child both wearing red outfits walking up a street
+Hypothesis: Two adults on a street
+--------------------------------------------------------------------------------
+
+Error 353 (Index: 5017)
+True: neutral | Predicted: contradiction
+Premise: Security officer working outside.
+Hypothesis: A security officer is outside.
+--------------------------------------------------------------------------------
+
+Error 354 (Index: 5085)
+True: entailment | Predicted: neutral
+Premise: a boy in a beige shirt is sleeping in a car.
+Hypothesis: A boy is homeless
+--------------------------------------------------------------------------------
+
+Error 355 (Index: 5088)
+True: contradiction | Predicted: neutral
+Premise: Two boys in front of a soda machine.
+Hypothesis: Two girls are in front of the snack machine.
+--------------------------------------------------------------------------------
+
+Error 356 (Index: 5100)
+True: neutral | Predicted: entailment
+Premise: A child hugs a birdhouse.
+Hypothesis: A child has no arms.
+--------------------------------------------------------------------------------
+
+Error 357 (Index: 5101)
+True: neutral | Predicted: contradiction
+Premise: The young lady is giving the old man a hug.
+Hypothesis: The lady is giving the old man a hug.
+--------------------------------------------------------------------------------
+
+Error 358 (Index: 5113)
+True: neutral | Predicted: contradiction
+Premise: A couple stands at the top of a flight of outdoor stairs kissing one another.
+Hypothesis: A couple stands near some stairs.
+--------------------------------------------------------------------------------
+
+Error 359 (Index: 5143)
+True: contradiction | Predicted: neutral
+Premise: A woman runs on the beach.
+Hypothesis: A runner is working out on the sand.
+--------------------------------------------------------------------------------
+
+Error 360 (Index: 5164)
+True: neutral | Predicted: contradiction
+Premise: Two women wearing ballerina attire are conversing with one another.
+Hypothesis: Two football players are talking.
+--------------------------------------------------------------------------------
+
+Error 361 (Index: 5170)
+True: neutral | Predicted: contradiction
+Premise: Several bicyclers are carrying their bikes up a grassy hill.
+Hypothesis: People carrying bikes.
+--------------------------------------------------------------------------------
+
+Error 362 (Index: 5189)
+True: neutral | Predicted: entailment
+Premise: A man walks past an arch in an old gothic style building.
+Hypothesis: The man admires the craftsmanship
+--------------------------------------------------------------------------------
+
+Error 363 (Index: 5193)
+True: neutral | Predicted: entailment
+Premise: Two women stand in the street both wearing matching outfits with police like jackets that say Polotie.
+Hypothesis: Two women look like Police in similar jackets standing in the street.
+--------------------------------------------------------------------------------
+
+Error 364 (Index: 5196)
+True: neutral | Predicted: entailment
+Premise: Women playing volleyball in the sand near the ocean.
+Hypothesis: Women playing a sport
+--------------------------------------------------------------------------------
+
+Error 365 (Index: 5205)
+True: entailment | Predicted: neutral
+Premise: Two women look at a table with assorted items on it in some sort of market that others are currently browsing.
+Hypothesis: the women are hot
+--------------------------------------------------------------------------------
+
+Error 366 (Index: 5208)
+True: neutral | Predicted: entailment
+Premise: A man juggles a flaming staff in the dark.
+Hypothesis: A man juggling.
+--------------------------------------------------------------------------------
+
+Error 367 (Index: 5214)
+True: neutral | Predicted: entailment
+Premise: A player on the red soccer team has just scored a goal while the opposing team watches the ball go in.
+Hypothesis: A soccer player scored a goal.
+--------------------------------------------------------------------------------
+
+Error 368 (Index: 5233)
+True: neutral | Predicted: entailment
+Premise: A red hot air balloon lands in a field among a crowd.
+Hypothesis: A hot air balloon is crashing down to earth.
+--------------------------------------------------------------------------------
+
+Error 369 (Index: 5239)
+True: entailment | Predicted: neutral
+Premise: A young boy wearing a red shirt runs along a gravel road.
+Hypothesis: A child is chasing a car.
+--------------------------------------------------------------------------------
+
+Error 370 (Index: 5265)
+True: entailment | Predicted: neutral
+Premise: A man is sitting at a restaurant table outdoors.
+Hypothesis: The man is inside the restaurant in a booth.
+--------------------------------------------------------------------------------
+
+Error 371 (Index: 5266)
+True: entailment | Predicted: neutral
+Premise: Young children waving American flags for a soldier
+Hypothesis: Children are burning flags in protest.
+--------------------------------------------------------------------------------
+
+Error 372 (Index: 5296)
+True: contradiction | Predicted: neutral
+Premise: The young man in the plaid shirt is sitting on a chair that is out in the yard.
+Hypothesis: A boy is watching a cartoon from a recliner.
+--------------------------------------------------------------------------------
+
+Error 373 (Index: 5299)
+True: entailment | Predicted: neutral
+Premise: Group of young adults posing for picture near spanish-language sign.
+Hypothesis: The people are tourists.
+--------------------------------------------------------------------------------
+
+Error 374 (Index: 5300)
+True: neutral | Predicted: contradiction
+Premise: Group of young adults posing for picture near spanish-language sign.
+Hypothesis: The people are taking a science test.
+--------------------------------------------------------------------------------
+
+Error 375 (Index: 5334)
+True: neutral | Predicted: entailment
+Premise: A man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger.
+Hypothesis: a man argues with another who is raising his fist
+--------------------------------------------------------------------------------
+
+Error 376 (Index: 5346)
+True: entailment | Predicted: neutral
+Premise: A group of people are riding down a roller coaster that appears to be called the "Cyclone."
+Hypothesis: A picture of people enjoying themselves at an amusement park.
+--------------------------------------------------------------------------------
+
+Error 377 (Index: 5374)
+True: entailment | Predicted: neutral
+Premise: 3 people on plain boats smiling towards the camera.
+Hypothesis: 3 smiling people on a boat
+--------------------------------------------------------------------------------
+
+Error 378 (Index: 5426)
+True: neutral | Predicted: contradiction
+Premise: A young man wearing a green shirt and a hat attempts a trick on a skateboard while riding it in a skate park next to a beach.
+Hypothesis: There is a person skateboarding.
+--------------------------------------------------------------------------------
+
+Error 379 (Index: 5448)
+True: contradiction | Predicted: neutral
+Premise: Two young girls with long brunette hair, standing in front of a stone wall playing a game.
+Hypothesis: Two girls with short blonde hair playing a game.
+--------------------------------------------------------------------------------
+
+Error 380 (Index: 5459)
+True: entailment | Predicted: neutral
+Premise: A young girl with a purple shirt and a pink hair band standing near the woods.
+Hypothesis: A little girl is standing outside.
+--------------------------------------------------------------------------------
+
+Error 381 (Index: 5464)
+True: neutral | Predicted: entailment
+Premise: A man and a child painting a post.
+Hypothesis: The father and son are repairing the sign.
+--------------------------------------------------------------------------------
+
+Error 382 (Index: 5472)
+True: neutral | Predicted: entailment
+Premise: A lady with blue jeans and a brown shirt is speaking on her cellphone on the second floor of the mall.
+Hypothesis: the lady is shpping
+--------------------------------------------------------------------------------
+
+Error 383 (Index: 5479)
+True: entailment | Predicted: neutral
+Premise: a dog about to jump to catch a Frisbee
+Hypothesis: The dog is going to catch a frisbee.
+--------------------------------------------------------------------------------
+
+Error 384 (Index: 5520)
+True: neutral | Predicted: entailment
+Premise: Young people and a kid are walking in the forest in a sunny day.
+Hypothesis: Young people and a kid are walking on a sunny day.
+--------------------------------------------------------------------------------
+
+Error 385 (Index: 5524)
+True: neutral | Predicted: entailment
+Premise: A child enjoying themselves on a yellow slide at a park.
+Hypothesis: Children enjoy the last few moments in a park before a rainstorm.
+--------------------------------------------------------------------------------
+
+Error 386 (Index: 5539)
+True: entailment | Predicted: neutral
+Premise: Two children wearing hooded tops laughing with each other.
+Hypothesis: children laugh
+--------------------------------------------------------------------------------
+
+Error 387 (Index: 5559)
+True: neutral | Predicted: entailment
+Premise: A man in a plaid shirt and brown pants is sitting on the sidewalk in front of some blankets while people walk by.
+Hypothesis: A man is outside.
+--------------------------------------------------------------------------------
+
+Error 388 (Index: 5565)
+True: neutral | Predicted: entailment
+Premise: a breakdancer man is performing for the kids at school
+Hypothesis: A man is break dancing at a school
+--------------------------------------------------------------------------------
+
+Error 389 (Index: 5573)
+True: entailment | Predicted: neutral
+Premise: A young girl is playing a musical instrument and singing into a microphone.
+Hypothesis: A boy plays air guitar while lip syncing.
+--------------------------------------------------------------------------------
+
+Error 390 (Index: 5577)
+True: neutral | Predicted: contradiction
+Premise: A young woman with brown hair and an elderly man with gray hair and a sweater jump in the air on a snowy hill with snowshoes on their feet.
+Hypothesis: A man and a woman are jumping in the snow.
+--------------------------------------------------------------------------------
+
+Error 391 (Index: 5594)
+True: neutral | Predicted: entailment
+Premise: A man in glasses in a basement.
+Hypothesis: The man is sitting in his living room.
+--------------------------------------------------------------------------------
+
+Error 392 (Index: 5642)
+True: entailment | Predicted: neutral
+Premise: A man with medium length curly hair, wearing a button down shirt and bracelets, sings into a microphone while he plays a guitar.
+Hypothesis: A person with hair
+--------------------------------------------------------------------------------
+
+Error 393 (Index: 5645)
+True: entailment | Predicted: neutral
+Premise: A man in a black coat and hat and a woman in a blue coat with pink hat snowshoeing on the side of a road with a stoplight in the background.
+Hypothesis: A man and woman are outside in the snow.
+--------------------------------------------------------------------------------
+
+Error 394 (Index: 5647)
+True: contradiction | Predicted: neutral
+Premise: A four piece band plays a song on a medium-size stage.
+Hypothesis: A three piece band plays a song on a medium-size stage.
+--------------------------------------------------------------------------------
+
+Error 395 (Index: 5656)
+True: contradiction | Predicted: neutral
+Premise: Two men are dressed up as snowmen.
+Hypothesis: two young men are dressed up
+--------------------------------------------------------------------------------
+
+Error 396 (Index: 5663)
+True: contradiction | Predicted: neutral
+Premise: A man in orange and a man in a light blue top are walking down the street towards something.
+Hypothesis: Two men are watchin TV inside
+--------------------------------------------------------------------------------
+
+Error 397 (Index: 5668)
+True: neutral | Predicted: entailment
+Premise: A group of people taking pictures on a walkway in front of a large body of water.
+Hypothesis: A group poses on vacation at the ocean.
+--------------------------------------------------------------------------------
+
+Error 398 (Index: 5670)
+True: entailment | Predicted: contradiction
+Premise: A group of people taking pictures on a walkway in front of a large body of water.
+Hypothesis: A man cleans up a spill.
+--------------------------------------------------------------------------------
+
+Error 399 (Index: 5680)
+True: entailment | Predicted: neutral
+Premise: a teenager laying down with paper crafts strewn about the floor
+Hypothesis: The teen has a messy pink bedroom.
+--------------------------------------------------------------------------------
+
+Error 400 (Index: 5702)
+True: contradiction | Predicted: entailment
+Premise: A girl bounces in a bounce house.
+Hypothesis: A girl is bouncing alongside with another girl.
+--------------------------------------------------------------------------------
+
+Error 401 (Index: 5703)
+True: contradiction | Predicted: neutral
+Premise: A girl bounces in a bounce house.
+Hypothesis: A girl is bouncing around at a friend birthday party.
+--------------------------------------------------------------------------------
+
+Error 402 (Index: 5704)
+True: entailment | Predicted: neutral
+Premise: A woman standing with smile on her face and she is holding a wood in her hand
+Hypothesis: A woman with wood in her hand is standing with a smile on her face.
+--------------------------------------------------------------------------------
+
+Error 403 (Index: 5707)
+True: entailment | Predicted: neutral
+Premise: A young boy hanging on a pole smiling at the camera.
+Hypothesis: The young boy is hispanic.
+--------------------------------------------------------------------------------
+
+Error 404 (Index: 5724)
+True: contradiction | Predicted: neutral
+Premise: A young african child in a dirty yellow shirt carrying a bag on his head.
+Hypothesis: A young African child carrying a bag.
+--------------------------------------------------------------------------------
+
+Error 405 (Index: 5742)
+True: neutral | Predicted: contradiction
+Premise: A woman wearing dollar sign glasses, holding a dollar bill, stands with a suitcase that says "Lucky" that is overflowing with cash.
+Hypothesis: She is dressed up for a commercial shoot
+--------------------------------------------------------------------------------
+
+Error 406 (Index: 5743)
+True: neutral | Predicted: contradiction
+Premise: A person is riding their motorbike and a person in a bright yellow jacket is watching someone fall off their bike.
+Hypothesis: The other person laughed.
+--------------------------------------------------------------------------------
+
+Error 407 (Index: 5746)
+True: entailment | Predicted: neutral
+Premise: A man speaking with two women.
+Hypothesis: There are three people talking.
+--------------------------------------------------------------------------------
+
+Error 408 (Index: 5748)
+True: neutral | Predicted: entailment
+Premise: A man speaking with two women.
+Hypothesis: A man is giving two women directions at work.
+--------------------------------------------------------------------------------
+
+Error 409 (Index: 5752)
+True: neutral | Predicted: entailment
+Premise: A man is holding a child on his shoulders.
+Hypothesis: The child is too big to ride on the mans shoulders now.
+--------------------------------------------------------------------------------
+
+Error 410 (Index: 5779)
+True: entailment | Predicted: neutral
+Premise: Two distinguished older gentlemen stand outside a house, trees in background, both with white hair, the taller man having his arm about the other man's shoulder as they face the camera from behind their corrective lenses.
+Hypothesis: The older men are sitting inside drinking tea.
+--------------------------------------------------------------------------------
+
+Error 411 (Index: 5793)
+True: neutral | Predicted: contradiction
+Premise: A large group of people populate a dimly lit room.
+Hypothesis: A group of people are in a room.
+--------------------------------------------------------------------------------
+
+Error 412 (Index: 5805)
+True: neutral | Predicted: entailment
+Premise: A white-clad soccer player is attempting to intercept a soccer ball that is quickly approaching the goal box.
+Hypothesis: A soccer player gets the interception.
+--------------------------------------------------------------------------------
+
+Error 413 (Index: 5832)
+True: entailment | Predicted: neutral
+Premise: A shirtless man with red paint on his torso holding a stick.
+Hypothesis: A fully dressed man holds a sign.
+--------------------------------------------------------------------------------
+
+Error 414 (Index: 5841)
+True: entailment | Predicted: neutral
+Premise: A woman in a black top and blue skirt is pushing a carriage or cart down a long empty tree-lined road.
+Hypothesis: A woman is running with a stroller down a lot
+--------------------------------------------------------------------------------
+
+Error 415 (Index: 5849)
+True: contradiction | Predicted: neutral
+Premise: Two racers race on motorcycles.
+Hypothesis: Two people are racing cars.
+--------------------------------------------------------------------------------
+
+Error 416 (Index: 5869)
+True: contradiction | Predicted: neutral
+Premise: An Asian woman in a purple shirt preparing a bowl of food for the younger Asian boy sitting near buy, while an Asian man eats a roll and prepares to take some food up with his chopsticks.
+Hypothesis: A mother is making food for her family.
+--------------------------------------------------------------------------------
+
+Error 417 (Index: 5930)
+True: entailment | Predicted: neutral
+Premise: 4 children and 1 adult look at an armadillo on a grassy hill with 2 trees.
+Hypothesis: A family visits the zoo.
+--------------------------------------------------------------------------------
+
+Error 418 (Index: 5934)
+True: neutral | Predicted: entailment
+Premise: A child with a yellow shirt riding a yellow bike in a city.
+Hypothesis: A kid riding his bike down the street.
+--------------------------------------------------------------------------------
+
+Error 419 (Index: 5961)
+True: neutral | Predicted: entailment
+Premise: A curly-haired man is talking or possibly debating with a blond-haired man in front of a table.
+Hypothesis: Two men talk to each other.
+--------------------------------------------------------------------------------
+
+Error 420 (Index: 5976)
+True: neutral | Predicted: entailment
+Premise: A bear-chested jungle native, with long hair, wearing a cloth bottom garment, is dangling in the air from a chute.
+Hypothesis: A tall person with hair
+--------------------------------------------------------------------------------
+
+Error 421 (Index: 5990)
+True: neutral | Predicted: entailment
+Premise: Women in a red hat and beige shoes standing with hands behind her back in front of a cement wall.
+Hypothesis: A tall person in a hat
+--------------------------------------------------------------------------------
+
+Error 422 (Index: 6003)
+True: entailment | Predicted: neutral
+Premise: A man wearing shorts and a blue t-shirt is applying signage to the display window of an ice cream shop.
+Hypothesis: A man is using window paint to draw a picture on the window.
+--------------------------------------------------------------------------------
+
+Error 423 (Index: 6022)
+True: entailment | Predicted: neutral
+Premise: Three sailboats with white sails are seen on a riverbank.
+Hypothesis: The boats are on the water.
+--------------------------------------------------------------------------------
+
+Error 424 (Index: 6024)
+True: neutral | Predicted: contradiction
+Premise: Three sailboats with white sails are seen on a riverbank.
+Hypothesis: The boats  are sailing on the ocean.
+--------------------------------------------------------------------------------
+
+Error 425 (Index: 6055)
+True: entailment | Predicted: contradiction
+Premise: A man grilling a hamburger.
+Hypothesis: The man is wearing an apron.
+--------------------------------------------------------------------------------
+
+Error 426 (Index: 6095)
+True: neutral | Predicted: entailment
+Premise: Team member 39 waiting for the puck to come his way.
+Hypothesis: A person has a number on his shirt.
+--------------------------------------------------------------------------------
+
+Error 427 (Index: 6107)
+True: entailment | Predicted: neutral
+Premise: A man sitting on a statue outdoors, near a woman standing next to him.
+Hypothesis: man and woman sitting near a statue
+--------------------------------------------------------------------------------
+
+Error 428 (Index: 6130)
+True: neutral | Predicted: entailment
+Premise: A man and a woman stand in front of a Christmas tree contemplating a single thought.
+Hypothesis: Two people stand lost in thought in front of a tree.
+--------------------------------------------------------------------------------
+
+Error 429 (Index: 6132)
+True: neutral | Predicted: contradiction
+Premise: A man and a woman stand in front of a Christmas tree contemplating a single thought.
+Hypothesis: Two people talk loudly in front of a cactus.
+--------------------------------------------------------------------------------
+
+Error 430 (Index: 6158)
+True: neutral | Predicted: contradiction
+Premise: A woman carries a small, unhappy child in a busy street scene.
+Hypothesis: man walking a dog
+--------------------------------------------------------------------------------
+
+Error 431 (Index: 6173)
+True: neutral | Predicted: entailment
+Premise: The man white purple and white polka-dotted shirts is eating and looking to his right while the woman behind him has a confused look on her face.
+Hypothesis: A person is jumping out of a plane.
+--------------------------------------------------------------------------------
+
+Error 432 (Index: 6176)
+True: entailment | Predicted: neutral
+Premise: Several people talk and drink beer while sitting around a picnic table.
+Hypothesis: People talking and drinking while sitting at a table outside.
+--------------------------------------------------------------------------------
+
+Error 433 (Index: 6184)
+True: neutral | Predicted: entailment
+Premise: A man with white hair wearing a gray suit speaks into a microphone with a metal jug sitting in front of him.
+Hypothesis: A man is riding in a spaceship to the moon.
+--------------------------------------------------------------------------------
+
+Error 434 (Index: 6185)
+True: contradiction | Predicted: neutral
+Premise: A man with white hair wearing a gray suit speaks into a microphone with a metal jug sitting in front of him.
+Hypothesis: A man is giving a speech on personal finance.
+--------------------------------------------------------------------------------
+
+Error 435 (Index: 6196)
+True: neutral | Predicted: contradiction
+Premise: A brown and white dog is chained up near a red chair.
+Hypothesis: The dog is chained to a chair.
+--------------------------------------------------------------------------------
+
+Error 436 (Index: 6203)
+True: entailment | Predicted: neutral
+Premise: The African American man protests against unlawful sex.
+Hypothesis: The man protests in something he doesn't believe in.
+--------------------------------------------------------------------------------
+
+Error 437 (Index: 6220)
+True: neutral | Predicted: entailment
+Premise: A woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket.
+Hypothesis: The woman is near her dog.
+--------------------------------------------------------------------------------
+
+Error 438 (Index: 6276)
+True: neutral | Predicted: entailment
+Premise: A girl making a snow angel, wearing a black hat and glasses.
+Hypothesis: A girl is at the beach.
+--------------------------------------------------------------------------------
+
+Error 439 (Index: 6281)
+True: entailment | Predicted: neutral
+Premise: A shirtless man rock climbs.
+Hypothesis: A woman is climbing stairs
+--------------------------------------------------------------------------------
+
+Error 440 (Index: 6286)
+True: neutral | Predicted: entailment
+Premise: A skateboarder sails over white steps.
+Hypothesis: The skater was elated.
+--------------------------------------------------------------------------------
+
+Error 441 (Index: 6322)
+True: entailment | Predicted: contradiction
+Premise: It looks like the clown has fallen off the horse.
+Hypothesis: The clown has fallen off the horse.
+--------------------------------------------------------------------------------
+
+Error 442 (Index: 6344)
+True: neutral | Predicted: entailment
+Premise: A young woman wearing jeans and a gray sweater walks across an empty street.
+Hypothesis: A young woman is standing on her hands.
+--------------------------------------------------------------------------------
+
+Error 443 (Index: 6348)
+True: neutral | Predicted: entailment
+Premise: A man with a large mustache watches the barber conduct his work through the mirror that faces him.
+Hypothesis: The two men are playing a game of football.
+--------------------------------------------------------------------------------
+
+Error 444 (Index: 6378)
+True: neutral | Predicted: contradiction
+Premise: A man dressed all in black puts his hands on an art sculpture.
+Hypothesis: The man is robbing a bank
+--------------------------------------------------------------------------------
+
+Error 445 (Index: 6401)
+True: contradiction | Predicted: neutral
+Premise: A group of men playing rugby on the sand.
+Hypothesis: A rugby team plays a match at the beach.
+--------------------------------------------------------------------------------
+
+Error 446 (Index: 6428)
+True: neutral | Predicted: contradiction
+Premise: Three young men in a kitchen standing around a stove, one of them is stirring something in a pot.
+Hypothesis: Three guys are in a swimming pool.
+--------------------------------------------------------------------------------
+
+Error 447 (Index: 6434)
+True: entailment | Predicted: neutral
+Premise: A long jumper takes flight in an attempt to jump the longest distance possible in a track competition.
+Hypothesis: There is someone attempting to jump.
+--------------------------------------------------------------------------------
+
+Error 448 (Index: 6443)
+True: neutral | Predicted: contradiction
+Premise: A little girl in a colorful shirt holding a flower.
+Hypothesis: THe girl is cute
+--------------------------------------------------------------------------------
+
+Error 449 (Index: 6445)
+True: entailment | Predicted: neutral
+Premise: This person is walking down the street and talking on their cellphone on a windy day.
+Hypothesis: The person on the phone is complaining about how windy it is outside.
+--------------------------------------------------------------------------------
+
+Error 450 (Index: 6467)
+True: neutral | Predicted: entailment
+Premise: A person enjoys a beautiful sunny day paragliding.
+Hypothesis: A person is enjoying the scenery.
+--------------------------------------------------------------------------------
+
+Error 451 (Index: 6501)
+True: entailment | Predicted: neutral
+Premise: A man siting on a bench with a briefcase.
+Hypothesis: The man is outdoors with his briefcase.
+--------------------------------------------------------------------------------
+
+Error 452 (Index: 6512)
+True: neutral | Predicted: entailment
+Premise: Group of men standing in a meeting room, talking.
+Hypothesis: A group of men are scuba diving.
+--------------------------------------------------------------------------------
+
+Error 453 (Index: 6525)
+True: neutral | Predicted: entailment
+Premise: A man in a competitive field sport jumps into sand and his glasses fall off.
+Hypothesis: A man's glasses fall off.
+--------------------------------------------------------------------------------
+
+Error 454 (Index: 6532)
+True: entailment | Predicted: contradiction
+Premise: a snowboarder wearing a green hat is riding along a metal railing.
+Hypothesis: A man is riding a riding a bicycle through the park.
+--------------------------------------------------------------------------------
+
+Error 455 (Index: 6552)
+True: neutral | Predicted: entailment
+Premise: A girl with curly hair and wearing a patriotic shirt is looking at a monarch butterfly sitting on her left index finger.
+Hypothesis: A girl drinks a milkshake
+--------------------------------------------------------------------------------
+
+Error 456 (Index: 6562)
+True: entailment | Predicted: neutral
+Premise: A gymnastics performer is in mid-pose as she completes her jump.
+Hypothesis: A gymnast is completing her jump.
+--------------------------------------------------------------------------------
+
+Error 457 (Index: 6566)
+True: contradiction | Predicted: entailment
+Premise: A person with brown hair wearing a blue shirt and purple bandanna around their neck is chiseling a design into a round, brick pillar.
+Hypothesis: The brown haired person is a stone mason working on a reconstruction project.
+--------------------------------------------------------------------------------
+
+Error 458 (Index: 6571)
+True: neutral | Predicted: contradiction
+Premise: A young boy wearing red Croc sandals climbs a tree with healthy, green leaves.
+Hypothesis: A young boy wears sandals.
+--------------------------------------------------------------------------------
+
+Error 459 (Index: 6577)
+True: contradiction | Predicted: neutral
+Premise: A beautiful bride walking on a sidewalk with her new husband.
+Hypothesis: Newlyweds walk down the sidewalk from the church.
+--------------------------------------------------------------------------------
+
+Error 460 (Index: 6578)
+True: entailment | Predicted: neutral
+Premise: A beautiful bride walking on a sidewalk with her new husband.
+Hypothesis: Newlyweds sitting on a park bench.
+--------------------------------------------------------------------------------
+
+Error 461 (Index: 6617)
+True: entailment | Predicted: neutral
+Premise: A man wearing black carving stone.
+Hypothesis: A man is wearing black.
+--------------------------------------------------------------------------------
+
+Error 462 (Index: 6627)
+True: neutral | Predicted: contradiction
+Premise: A man on stage in the act of jumping, with a little boy in the background really enjoying it.
+Hypothesis: A boy happily watches an acrobat jumping on a stage.
+--------------------------------------------------------------------------------
+
+Error 463 (Index: 6630)
+True: entailment | Predicted: neutral
+Premise: A woman wearing a beige sweater and black pants talking to man wearing black pants and top
+Hypothesis: The man and woman are engaged.
+--------------------------------------------------------------------------------
+
+Error 464 (Index: 6632)
+True: contradiction | Predicted: neutral
+Premise: A young woman in tight pants talks to a man in the street.
+Hypothesis: A young gal in snug pants chats with a guy in the road.
+--------------------------------------------------------------------------------
+
+Error 465 (Index: 6671)
+True: neutral | Predicted: entailment
+Premise: A woman cook in an apron is smiling at the camera with two other cooks in the background.
+Hypothesis: A woman not paying attention to the camera
+--------------------------------------------------------------------------------
+
+Error 466 (Index: 6675)
+True: entailment | Predicted: neutral
+Premise: Two butchers are walking through their shop.
+Hypothesis: Two butchers are attacking each other in the shop.
+--------------------------------------------------------------------------------
+
+Error 467 (Index: 6689)
+True: entailment | Predicted: neutral
+Premise: Black and yellow teams are trying to get the basketball in the goal.
+Hypothesis: Red, and green teams are trying to get a soccer ball into a goal.
+--------------------------------------------------------------------------------
+
+Error 468 (Index: 6725)
+True: neutral | Predicted: entailment
+Premise: A man with a striped black and white shirt and a helmet cleans wooden floor while another one helps him on the background.
+Hypothesis: The man is referring a floor cleaner battle.
+--------------------------------------------------------------------------------
+
+Error 469 (Index: 6738)
+True: contradiction | Predicted: neutral
+Premise: A man in a leather jacket and glasses walks across an intersection while a man in a gray sweatshirt and white hat looks on.
+Hypothesis: A man is walking across an intersection.
+--------------------------------------------------------------------------------
+
+Error 470 (Index: 6755)
+True: entailment | Predicted: neutral
+Premise: Construction workers on lifts working on a building.
+Hypothesis: Men are repairing the gutters on a house.
+--------------------------------------------------------------------------------
+
+Error 471 (Index: 6757)
+True: neutral | Predicted: entailment
+Premise: Three men, who appear to be Asian, are conversing near a carved wall, while another man sits on a bench with his eyes closed.
+Hypothesis: A man is asleep and dreaming while sitting on a bench.
+--------------------------------------------------------------------------------
+
+Error 472 (Index: 6758)
+True: neutral | Predicted: entailment
+Premise: Three men, who appear to be Asian, are conversing near a carved wall, while another man sits on a bench with his eyes closed.
+Hypothesis: Three black men yelling at each other.
+--------------------------------------------------------------------------------
+
+Error 473 (Index: 6763)
+True: neutral | Predicted: entailment
+Premise: A little girl carries a younger girl on the sidewalk.
+Hypothesis: The man caries the girl
+--------------------------------------------------------------------------------
+
+Error 474 (Index: 6771)
+True: neutral | Predicted: entailment
+Premise: People are sitting at tables.
+Hypothesis: People are seated at tables at a wedding reception.
+--------------------------------------------------------------------------------
+
+Error 475 (Index: 6779)
+True: entailment | Predicted: neutral
+Premise: A mountaineer about to descend down a mountain with a blue helmet on.
+Hypothesis: A person starts to climb down the mountain before it gets too dark.
+--------------------------------------------------------------------------------
+
+Error 476 (Index: 6814)
+True: entailment | Predicted: neutral
+Premise: Two workers in green uniforms are standing in an alleyway.
+Hypothesis: There are multiple people present.
+--------------------------------------------------------------------------------
+
+Error 477 (Index: 6820)
+True: neutral | Predicted: contradiction
+Premise: Two rescue guys looking at a guy on a stretcher
+Hypothesis: A man throwing a stretcher.
+--------------------------------------------------------------------------------
+
+Error 478 (Index: 6842)
+True: entailment | Predicted: neutral
+Premise: A crowd of people in winter garb gather in the street against a backdrop of bare trees and snow.
+Hypothesis: Sasquatch is riding a bike on the street.
+--------------------------------------------------------------------------------
+
+Error 479 (Index: 6894)
+True: neutral | Predicted: entailment
+Premise: Three people on bikes are coming over a ridge, while a man in orange watches.
+Hypothesis: People are in a bike race.
+--------------------------------------------------------------------------------
+
+Error 480 (Index: 6913)
+True: entailment | Predicted: contradiction
+Premise: A woman in a white wedding dress is being dressed and fitted by two other women.
+Hypothesis: A woman is being fitted.
+--------------------------------------------------------------------------------
+
+Error 481 (Index: 6915)
+True: neutral | Predicted: entailment
+Premise: A woman in a white wedding dress is being dressed and fitted by two other women.
+Hypothesis: A woman got married.
+--------------------------------------------------------------------------------
+
+Error 482 (Index: 6934)
+True: neutral | Predicted: contradiction
+Premise: A basketball player wearing blue and red is shooting a basket while onlookers sit outside the court.
+Hypothesis: The basketball player is taking a foul shot.
+--------------------------------------------------------------------------------
+
+Error 483 (Index: 6945)
+True: entailment | Predicted: neutral
+Premise: Person parasailing with a board in the ocean.
+Hypothesis: This person is exploring Mars.
+--------------------------------------------------------------------------------
+
+Error 484 (Index: 6954)
+True: entailment | Predicted: neutral
+Premise: man dressed in orange clothing with face covered seemingly balancing on a cane being held be a similarly dressed man sitting crossed legged on the ground at a shopping mall.
+Hypothesis: Two men are driving in the rain.
+--------------------------------------------------------------------------------
+
+Error 485 (Index: 6965)
+True: neutral | Predicted: entailment
+Premise: A female softball player in a black and red uniform with a red batting helmet is holding her bat waiting for the pitch.
+Hypothesis: A tall person in a uniform
+--------------------------------------------------------------------------------
+
+Error 486 (Index: 6974)
+True: entailment | Predicted: neutral
+Premise: An older man sleeping in a folding chair on the street.
+Hypothesis: A man is sleeping outside.
+--------------------------------------------------------------------------------
+
+Error 487 (Index: 7008)
+True: entailment | Predicted: neutral
+Premise: A large group of protesters are walking down the street with signs.
+Hypothesis: The group of protesters are promoting legalizing gay marriage.
+--------------------------------------------------------------------------------
+
+Error 488 (Index: 7013)
+True: contradiction | Predicted: neutral
+Premise: A boy with no shirt is standing in water.
+Hypothesis: The boy is sitting on the couch.
+--------------------------------------------------------------------------------
+
+Error 489 (Index: 7022)
+True: contradiction | Predicted: entailment
+Premise: Two men with black glasses are holding food, one appears to be eating.
+Hypothesis: Two men at a party are inspecting the appetizers.
+--------------------------------------------------------------------------------
+
+Error 490 (Index: 7040)
+True: neutral | Predicted: entailment
+Premise: The large white bird grazes the water.
+Hypothesis: He is searching for fish
+--------------------------------------------------------------------------------
+
+Error 491 (Index: 7057)
+True: entailment | Predicted: neutral
+Premise: A boy taking a shot while his team watches anxiously.
+Hypothesis: A boy is playing a game.
+--------------------------------------------------------------------------------
+
+Error 492 (Index: 7063)
+True: neutral | Predicted: entailment
+Premise: A man laying down in middle of street during heavy traffic.
+Hypothesis: The traffic made a guy fall asleep.
+--------------------------------------------------------------------------------
+
+Error 493 (Index: 7067)
+True: entailment | Predicted: neutral
+Premise: 3 Olympic winners posing for a photo on an advertised background
+Hypothesis: Some men are posing with their gold medals.
+--------------------------------------------------------------------------------
+
+Error 494 (Index: 7072)
+True: neutral | Predicted: contradiction
+Premise: A cowboy riding a horse at a rodeo.
+Hypothesis: cowboy feeding his horse
+--------------------------------------------------------------------------------
+
+Error 495 (Index: 7075)
+True: entailment | Predicted: neutral
+Premise: A man in summer clothing skiing on thin snow.
+Hypothesis: A man is skiing on a warm day.
+--------------------------------------------------------------------------------
+
+Error 496 (Index: 7093)
+True: contradiction | Predicted: neutral
+Premise: A little boy is standing in front of a wedding party laughing.
+Hypothesis: The little boy is the ring bearer.
+--------------------------------------------------------------------------------
+
+Error 497 (Index: 7101)
+True: contradiction | Predicted: neutral
+Premise: A man in a plaid red shirt casts his fishing line out into the water.
+Hypothesis: A man is fishing on a boat.
+--------------------------------------------------------------------------------
+
+Error 498 (Index: 7104)
+True: entailment | Predicted: neutral
+Premise: A man in a purple jersey is falling down while chasing a player in a green jersey playing soccer
+Hypothesis: The two soccer players run around chasing each other
+--------------------------------------------------------------------------------
+
+Error 499 (Index: 7130)
+True: neutral | Predicted: contradiction
+Premise: Two young boys playing with ducks near the water.
+Hypothesis: Young kids play with animals
+--------------------------------------------------------------------------------
+
+Error 500 (Index: 7131)
+True: neutral | Predicted: entailment
+Premise: Two young boys playing with ducks near the water.
+Hypothesis: Two young boys are playing at home
+--------------------------------------------------------------------------------
+
+Error 501 (Index: 7143)
+True: contradiction | Predicted: entailment
+Premise: A group of people are gathered on a sidewalk in front of a store nearby a littered street.
+Hypothesis: A group of people are considering whether to shop at the store.
+--------------------------------------------------------------------------------
+
+Error 502 (Index: 7158)
+True: entailment | Predicted: contradiction
+Premise: A news crew in rain jackets standing in front of line of police tape outside of a residence.
+Hypothesis: A news crew's van has broken down, so they decide to stay home.
+--------------------------------------------------------------------------------
+
+Error 503 (Index: 7186)
+True: neutral | Predicted: entailment
+Premise: construction worker working on a structure
+Hypothesis: A man is building a house.
+--------------------------------------------------------------------------------
+
+Error 504 (Index: 7198)
+True: neutral | Predicted: contradiction
+Premise: City street crowded with sports fans wearing orange.
+Hypothesis: The sports fans are wearing a certain color.
+--------------------------------------------------------------------------------
+
+Error 505 (Index: 7212)
+True: entailment | Predicted: neutral
+Premise: An asian teenager wearing a white shirt with black stripes is sitting on the steps with his face resting on his hand.
+Hypothesis: The teenager is sitting down to think for a bit.
+--------------------------------------------------------------------------------
+
+Error 506 (Index: 7215)
+True: entailment | Predicted: neutral
+Premise: A girl jumping high off of the sand.
+Hypothesis: The girl is jogging on the beach.
+--------------------------------------------------------------------------------
+
+Error 507 (Index: 7223)
+True: entailment | Predicted: contradiction
+Premise: A gentleman with his eyes closed playing an old fluglehorn into a microphone.
+Hypothesis: A man plays an instruement with his eyes closed
+--------------------------------------------------------------------------------
+
+Error 508 (Index: 7228)
+True: neutral | Predicted: entailment
+Premise: A man with a pinstriped shirt and tan slacks adjust his tie while looking at a apple laptop computer.
+Hypothesis: A man adjusts his tie looking at a laptop
+--------------------------------------------------------------------------------
+
+Error 509 (Index: 7242)
+True: neutral | Predicted: entailment
+Premise: Two construction workers climbing the steel ribbed exterior of a new building at their work site.
+Hypothesis: Two workers are climbing a building.
+--------------------------------------------------------------------------------
+
+Error 510 (Index: 7264)
+True: entailment | Predicted: neutral
+Premise: Two green painted women perform for a crowd of onlookers.
+Hypothesis: Women perform.
+--------------------------------------------------------------------------------
+
+Error 511 (Index: 7272)
+True: entailment | Predicted: neutral
+Premise: A police person is on a motorcycle on the side of a street.
+Hypothesis: The fireman is sitting in his truck.
+--------------------------------------------------------------------------------
+
+Error 512 (Index: 7289)
+True: contradiction | Predicted: neutral
+Premise: A boy and a girl stand in a median amongst Mike Huckabee signs.
+Hypothesis: A boy and girl are putting up signs for their candidate.
+--------------------------------------------------------------------------------
+
+Error 513 (Index: 7311)
+True: entailment | Predicted: neutral
+Premise: A man and woman look upward on a city block.
+Hypothesis: A man and woman are in a metropolitan area.
+--------------------------------------------------------------------------------
+
+Error 514 (Index: 7319)
+True: neutral | Predicted: contradiction
+Premise: Some cars and many tents are set up at the foot of a mountain.
+Hypothesis: No one was able to drive to the camp site.
+--------------------------------------------------------------------------------
+
+Error 515 (Index: 7327)
+True: neutral | Predicted: contradiction
+Premise: Man with blue and yellow shirt rides bike.
+Hypothesis: a man rides a bike for the first time
+--------------------------------------------------------------------------------
+
+Error 516 (Index: 7328)
+True: contradiction | Predicted: neutral
+Premise: Man with blue and yellow shirt rides bike.
+Hypothesis: a bike rides a man for its first time
+--------------------------------------------------------------------------------
+
+Error 517 (Index: 7332)
+True: neutral | Predicted: entailment
+Premise: A little boy and his father talking to a man dressed as Santa Claws.
+Hypothesis: A boy and his father discuss Christmas with Santa Claus
+--------------------------------------------------------------------------------
+
+Error 518 (Index: 7345)
+True: neutral | Predicted: entailment
+Premise: A man in a hard hat looks intimidated.
+Hypothesis: He is working in a potentially dangerous field that requires a hard hat.
+--------------------------------------------------------------------------------
+
+Error 519 (Index: 7358)
+True: neutral | Predicted: entailment
+Premise: Four individuals are sitting on a small dock by the water as a boat sails by.
+Hypothesis: Four people sitting near the ocean.
+--------------------------------------------------------------------------------
+
+Error 520 (Index: 7368)
+True: neutral | Predicted: contradiction
+Premise: A young lady toying with her watch.
+Hypothesis: A woman is fidgeting with her wallet.
+--------------------------------------------------------------------------------
+
+Error 521 (Index: 7381)
+True: entailment | Predicted: neutral
+Premise: Two kids in their pajamas.
+Hypothesis: A couple of children are wearing pajamas.
+--------------------------------------------------------------------------------
+
+Error 522 (Index: 7406)
+True: contradiction | Predicted: neutral
+Premise: There is a green trash truck in road with a person sweeping sidewalk.
+Hypothesis: A woman mops.
+--------------------------------------------------------------------------------
+
+Error 523 (Index: 7409)
+True: entailment | Predicted: neutral
+Premise: Young men drink coffee and read books just outside some buildings on a sunny day; an older bearded man in a dark blue shirt glances at a younger man in a striped shirt, who has a red toy crab on the table next to him.
+Hypothesis: Gandalf and the red toy crab do battle in the streets.
+--------------------------------------------------------------------------------
+
+Error 524 (Index: 7416)
+True: entailment | Predicted: neutral
+Premise: Rose petals being thrown at an asian couple.
+Hypothesis: A couple just got married.
+--------------------------------------------------------------------------------
+
+Error 525 (Index: 7424)
+True: entailment | Predicted: neutral
+Premise: A man is reading a book while sitting on a bench outside of a bookstore.
+Hypothesis: A man is reading a book he just bought.
+--------------------------------------------------------------------------------
+
+Error 526 (Index: 7440)
+True: neutral | Predicted: contradiction
+Premise: Lady wearing brown jacket with brown boots and orange colored scarf is hearing music while sitting in the train.
+Hypothesis: There is a lady with an orange scarf, brown boots, and brown jacket on the train listening to music.
+--------------------------------------------------------------------------------
+
+Error 527 (Index: 7451)
+True: contradiction | Predicted: neutral
+Premise: Four people stand in front of trees.
+Hypothesis: Four people outdoor.
+--------------------------------------------------------------------------------
+
+Error 528 (Index: 7476)
+True: entailment | Predicted: neutral
+Premise: An older gentlemen in a hat and glasses holding a baby who is wrapped in a towel.
+Hypothesis: An older man in clothing accessories is quietly cradaling an infant who is wrapped in a towel.
+--------------------------------------------------------------------------------
+
+Error 529 (Index: 7477)
+True: neutral | Predicted: contradiction
+Premise: A man in renaissance clothing is sitting on a brick wall.
+Hypothesis: The man is in costume
+--------------------------------------------------------------------------------
+
+Error 530 (Index: 7496)
+True: contradiction | Predicted: entailment
+Premise: A farmer tends to his chores.
+Hypothesis: A farmer works on their farm.
+--------------------------------------------------------------------------------
+
+Error 531 (Index: 7501)
+True: neutral | Predicted: entailment
+Premise: Twenty five people are marching.
+Hypothesis: A man plays the trombone on the sidewalk.
+--------------------------------------------------------------------------------
+
+Error 532 (Index: 7527)
+True: neutral | Predicted: entailment
+Premise: A brown and white dog walking away from a black and brown dog with a tennis ball in its mouth while standing in water.
+Hypothesis: The pets sit inside.
+--------------------------------------------------------------------------------
+
+Error 533 (Index: 7534)
+True: entailment | Predicted: neutral
+Premise: Two small girls are holding stuffed animals.
+Hypothesis: There are two children in this picture.
+--------------------------------------------------------------------------------
+
+Error 534 (Index: 7539)
+True: entailment | Predicted: neutral
+Premise: some children play in the grass outside near a tree.
+Hypothesis: Children playing outside climbing trees.
+--------------------------------------------------------------------------------
+
+Error 535 (Index: 7540)
+True: entailment | Predicted: neutral
+Premise: A brown and white dog holds a tennis ball in his mouth.
+Hypothesis: A dog is playing fetch with his owner.
+--------------------------------------------------------------------------------
+
+Error 536 (Index: 7549)
+True: neutral | Predicted: entailment
+Premise: A young woman dressed up semi-formally is reading book and drinking in the sun, seated on a bench.
+Hypothesis: A young woman reads near the ocean.
+--------------------------------------------------------------------------------
+
+Error 537 (Index: 7562)
+True: entailment | Predicted: neutral
+Premise: An Obama Biden supporter cheers for the Presidential candidate and his running mate.
+Hypothesis: A man is at a political rally.
+--------------------------------------------------------------------------------
+
+Error 538 (Index: 7586)
+True: entailment | Predicted: neutral
+Premise: A man dressed in a brown shirt and tan shorts is down on one knee looking at some type of machinery.
+Hypothesis: The man is examining a machine.
+--------------------------------------------------------------------------------
+
+Error 539 (Index: 7592)
+True: entailment | Predicted: neutral
+Premise: A man is rolling a suitcase in front of a bunch of red flowers.
+Hypothesis: A man just got back from a business trip.
+--------------------------------------------------------------------------------
+
+Error 540 (Index: 7600)
+True: neutral | Predicted: entailment
+Premise: A man in a lab coat is looking through a microscope.
+Hypothesis: A man is looking through a microscope
+--------------------------------------------------------------------------------
+
+Error 541 (Index: 7643)
+True: neutral | Predicted: entailment
+Premise: A lady wearing a blue dress and earrings, is sitting at a table with a napkin in her hand and her elbow on the table.
+Hypothesis: A woman near a table.
+--------------------------------------------------------------------------------
+
+Error 542 (Index: 7667)
+True: contradiction | Predicted: neutral
+Premise: A man on stilts is performing a magical trick while onlookers enjoy.
+Hypothesis: a man on stilts performs a magic trick for onlookers at his school.
+--------------------------------------------------------------------------------
+
+Error 543 (Index: 7673)
+True: neutral | Predicted: contradiction
+Premise: A young redheaded woman laughs at something.
+Hypothesis: A redheaded woman laughs at something.
+--------------------------------------------------------------------------------
+
+Error 544 (Index: 7705)
+True: entailment | Predicted: contradiction
+Premise: A man in a white shirt taking a picture.
+Hypothesis: a man takes a picture
+--------------------------------------------------------------------------------
+
+Error 545 (Index: 7711)
+True: neutral | Predicted: entailment
+Premise: People walk outside "The Tempe Bar".
+Hypothesis: People are sitting in the bar drinking.
+--------------------------------------------------------------------------------
+
+Error 546 (Index: 7739)
+True: neutral | Predicted: entailment
+Premise: A man in a strange uniform taking a photo of an old-fashioned red sports car.
+Hypothesis: A tourist takes a picture of the city skyline at dusk.
+--------------------------------------------------------------------------------
+
+Error 547 (Index: 7745)
+True: entailment | Predicted: neutral
+Premise: A surfer is performing a jumping stunt in the ocean.
+Hypothesis: A daring man in the surf.
+--------------------------------------------------------------------------------
+
+Error 548 (Index: 7784)
+True: neutral | Predicted: contradiction
+Premise: A bearded man wears a roughly sewn hooded costume emblazoned with images of Spiderman.
+Hypothesis: A man dressing for a show
+--------------------------------------------------------------------------------
+
+Error 549 (Index: 7786)
+True: neutral | Predicted: entailment
+Premise: A guy with a football, a crowd watching him.
+Hypothesis: There is a guy holding a football.
+--------------------------------------------------------------------------------
+
+Error 550 (Index: 7789)
+True: entailment | Predicted: neutral
+Premise: Two girls walking, both with a white shirt and blue shorts on.
+Hypothesis: Two girls are wearing school uniforms.
+--------------------------------------------------------------------------------
+
+Error 551 (Index: 7800)
+True: contradiction | Predicted: neutral
+Premise: Two women are hugging on a path through a grassy area with a cow visible past them.
+Hypothesis: They are at the bar
+--------------------------------------------------------------------------------
+
+Error 552 (Index: 7807)
+True: entailment | Predicted: neutral
+Premise: a group of skiers jumping down slopes with the sun directly cast in backgroud
+Hypothesis: A man and a woman ride their bikes down a hill.
+--------------------------------------------------------------------------------
+
+Error 553 (Index: 7815)
+True: neutral | Predicted: entailment
+Premise: Seven young girls are being creative and making posters.
+Hypothesis: The girls are using paints and markers on the signs.
+--------------------------------------------------------------------------------
+
+Error 554 (Index: 7846)
+True: neutral | Predicted: entailment
+Premise: Some youngsters are playing a card game
+Hypothesis: people play poker
+--------------------------------------------------------------------------------
+
+Error 555 (Index: 7878)
+True: entailment | Predicted: neutral
+Premise: A man with a duffel bag and girl pushing a cart walk down a street.
+Hypothesis: A man with a breif case stands near a corner as a woman walks past.
+--------------------------------------------------------------------------------
+
+Error 556 (Index: 7909)
+True: entailment | Predicted: neutral
+Premise: A man sits on a couch beside a colorful cushion with a pencil in his hand.
+Hypothesis: The man is holding a pencil.
+--------------------------------------------------------------------------------
+
+Error 557 (Index: 7927)
+True: neutral | Predicted: contradiction
+Premise: A man in a leaf-patterned short stand behind a sunflower, smiling at the camera.
+Hypothesis: The man is outdoors.
+--------------------------------------------------------------------------------
+
+Error 558 (Index: 7928)
+True: entailment | Predicted: neutral
+Premise: A man in a leaf-patterned short stand behind a sunflower, smiling at the camera.
+Hypothesis: The man has shorts on.
+--------------------------------------------------------------------------------
+
+Error 559 (Index: 7943)
+True: contradiction | Predicted: neutral
+Premise: A man with a beard sitting in front of the tour bus.
+Hypothesis: A boy is sweeping the sidewalk.
+--------------------------------------------------------------------------------
+
+Error 560 (Index: 7950)
+True: neutral | Predicted: entailment
+Premise: A large group of people gather at a piano bar.
+Hypothesis: One person at a piano bar
+--------------------------------------------------------------------------------
+
+Error 561 (Index: 7955)
+True: neutral | Predicted: entailment
+Premise: A historic-looking building.
+Hypothesis: The town hall
+--------------------------------------------------------------------------------
+
+Error 562 (Index: 7965)
+True: neutral | Predicted: entailment
+Premise: Two women in bathing suits play on the beach.
+Hypothesis: Two ladies are wearing swimsuits.
+--------------------------------------------------------------------------------
+
+Error 563 (Index: 7972)
+True: contradiction | Predicted: neutral
+Premise: A person in blue is the only person currently throwing their ball at a bowling alley.
+Hypothesis: A person just bowled a strike.
+--------------------------------------------------------------------------------
+
+Error 564 (Index: 7997)
+True: neutral | Predicted: contradiction
+Premise: An artist replicating another artist's work and a man looking at the original art.
+Hypothesis: A person is crafting a replica of another's creation.
+--------------------------------------------------------------------------------
+
+Error 565 (Index: 8001)
+True: entailment | Predicted: neutral
+Premise: A senior citizen wearing a hat, blue button up shirt, Khaki shorts and sandals walking in a park holding two ice cream cones.
+Hypothesis: The man is outside.
+--------------------------------------------------------------------------------
+
+Error 566 (Index: 8024)
+True: neutral | Predicted: contradiction
+Premise: A person with a striped tube standing in the middle of a crowd of people.
+Hypothesis: A person is at a concert.
+--------------------------------------------------------------------------------
+
+Error 567 (Index: 8059)
+True: neutral | Predicted: entailment
+Premise: A firefighter climbs up a ladder towards flames while surrounded by smoke.
+Hypothesis: The firefighter can't enter the building.
+--------------------------------------------------------------------------------
+
+Error 568 (Index: 8061)
+True: neutral | Predicted: entailment
+Premise: A firefighter climbs up a ladder towards flames while surrounded by smoke.
+Hypothesis: A firefighter going up a ladder.
+--------------------------------------------------------------------------------
+
+Error 569 (Index: 8079)
+True: entailment | Predicted: neutral
+Premise: A small dog runs to catch a ball.
+Hypothesis: The dog is a chihuahua.
+--------------------------------------------------------------------------------
+
+Error 570 (Index: 8085)
+True: entailment | Predicted: neutral
+Premise: Bespectacled man in suit opens wallet while a younger lady in formal wear laughs with him.
+Hypothesis: A woman is walking after a man who is running from her.
+--------------------------------------------------------------------------------
+
+Error 571 (Index: 8092)
+True: entailment | Predicted: neutral
+Premise: Man in robe making designs on dirt ground.
+Hypothesis: An artist preparing some sketches in the dirt.
+--------------------------------------------------------------------------------
+
+Error 572 (Index: 8115)
+True: neutral | Predicted: contradiction
+Premise: Man sitting on bench with suitcase waiting for his source of transportation.
+Hypothesis: The man is outside.
+--------------------------------------------------------------------------------
+
+Error 573 (Index: 8159)
+True: neutral | Predicted: contradiction
+Premise: Children on the beach with their dog.
+Hypothesis: The children are playing catch with their dog.
+--------------------------------------------------------------------------------
+
+Error 574 (Index: 8167)
+True: entailment | Predicted: neutral
+Premise: A woman in a red long-sleeved shirt and blue jeans stands at the lectern speaking at or about GLAM U WIKI.
+Hypothesis: A woman is giving a speech to an interested crowd.
+--------------------------------------------------------------------------------
+
+Error 575 (Index: 8170)
+True: entailment | Predicted: neutral
+Premise: An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.
+Hypothesis: An older looking couple are holding hands as the walk past a restaurant outside.
+--------------------------------------------------------------------------------
+
+Error 576 (Index: 8171)
+True: neutral | Predicted: entailment
+Premise: An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.
+Hypothesis: An older looking couple is glancing through a glass window of a busy restaurant.
+--------------------------------------------------------------------------------
+
+Error 577 (Index: 8172)
+True: entailment | Predicted: neutral
+Premise: An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.
+Hypothesis: An older looking couple is riding in the back of a taxi in the middle of a city.
+--------------------------------------------------------------------------------
+
+Error 578 (Index: 8176)
+True: neutral | Predicted: contradiction
+Premise: People boating on a lake with the sun through the clouds in the distance.
+Hypothesis: kids at zoo
+--------------------------------------------------------------------------------
+
+Error 579 (Index: 8210)
+True: contradiction | Predicted: neutral
+Premise: A dark-haired lady with a big smile is wearing a bright red scarf.
+Hypothesis: There is a happy lady with colorful clothing
+--------------------------------------------------------------------------------
+
+Error 580 (Index: 8246)
+True: neutral | Predicted: entailment
+Premise: An Asian man makes faces for the camera.
+Hypothesis: Faces are being made to the camera.
+--------------------------------------------------------------------------------
+
+Error 581 (Index: 8254)
+True: entailment | Predicted: neutral
+Premise: Two guys in blue shirts talking.
+Hypothesis: Two men wearing different color shirts walking past each other.
+--------------------------------------------------------------------------------
+
+Error 582 (Index: 8259)
+True: contradiction | Predicted: neutral
+Premise: A woman is holding a large check for Kids Food Basket.
+Hypothesis: She is fond of the charity.
+--------------------------------------------------------------------------------
+
+Error 583 (Index: 8261)
+True: entailment | Predicted: neutral
+Premise: A male wearing a football uniform kicking a football during a football game.
+Hypothesis: A football player is trying to score a goal.
+--------------------------------------------------------------------------------
+
+Error 584 (Index: 8273)
+True: entailment | Predicted: neutral
+Premise: A brown-haired woman in a blue shirt, wearing a bib number from a marathon, holds a gold trophy and poses with a blond woman in a black dress.
+Hypothesis: A woman just won a 5k race
+--------------------------------------------------------------------------------
+
+Error 585 (Index: 8275)
+True: neutral | Predicted: entailment
+Premise: Two lacrosse players are running on the sports-field.
+Hypothesis: One of the boys scored a goal for his sports team today.
+--------------------------------------------------------------------------------
+
+Error 586 (Index: 8282)
+True: entailment | Predicted: neutral
+Premise: Man on phone in business suit walking down a busy street.
+Hypothesis: A person on a phone is outdoors
+--------------------------------------------------------------------------------
+
+Error 587 (Index: 8289)
+True: neutral | Predicted: contradiction
+Premise: Three men are using Washington Mutual ATMs outside near a parking lot.
+Hypothesis: There are men outdoors.
+--------------------------------------------------------------------------------
+
+Error 588 (Index: 8291)
+True: contradiction | Predicted: neutral
+Premise: A young woman is standing on a slope, facing the top of the slope.
+Hypothesis: A man sleds down a slope.
+--------------------------------------------------------------------------------
+
+Error 589 (Index: 8314)
+True: neutral | Predicted: contradiction
+Premise: Five young indian girls dress in colorful dresses are holding hands and smiling forming a circle
+Hypothesis: Five girls are wearing different colored dresses.
+--------------------------------------------------------------------------------
+
+Error 590 (Index: 8317)
+True: contradiction | Predicted: entailment
+Premise: A young woman in white working in a professional kitchen.
+Hypothesis: The woman is sitting in the bedroom.
+--------------------------------------------------------------------------------
+
+Error 591 (Index: 8326)
+True: entailment | Predicted: neutral
+Premise: People waiting on a train platform.
+Hypothesis: People are waiting for a train which is late.
+--------------------------------------------------------------------------------
+
+Error 592 (Index: 8340)
+True: entailment | Predicted: neutral
+Premise: Girls dressed in red stand in a line.
+Hypothesis: It is a special day.
+--------------------------------------------------------------------------------
+
+Error 593 (Index: 8367)
+True: entailment | Predicted: neutral
+Premise: A man dressed in all white and wearing a white hat stands on a sidewalk next to a building.
+Hypothesis: A tall human standing
+--------------------------------------------------------------------------------
+
+Error 594 (Index: 8405)
+True: neutral | Predicted: entailment
+Premise: A man wearing a black t-shirt that says "Long Live the Dead" pulls a shopping cart in the street near a NYC yellow taxi cab.
+Hypothesis: The man just got done shopping.
+--------------------------------------------------------------------------------
+
+Error 595 (Index: 8427)
+True: neutral | Predicted: entailment
+Premise: A man in a red shirt is learning how to climb a cliff.
+Hypothesis: A man is teaching himself how to climb.
+--------------------------------------------------------------------------------
+
+Error 596 (Index: 8433)
+True: entailment | Predicted: neutral
+Premise: A young man blew up balloons to craft into animals for the seven excited children that looked on.
+Hypothesis: A man is being creative in front of the crowd.
+--------------------------------------------------------------------------------
+
+Error 597 (Index: 8442)
+True: contradiction | Predicted: neutral
+Premise: Blond boy in striped shirt on the swing set.
+Hypothesis: A boy in a blue striped shirt is on the swing set.
+--------------------------------------------------------------------------------
+
+Error 598 (Index: 8451)
+True: entailment | Predicted: neutral
+Premise: A man flying out of a river raft filled with 6 other people.
+Hypothesis: The raft is empty.
+--------------------------------------------------------------------------------
+
+Error 599 (Index: 8453)
+True: entailment | Predicted: neutral
+Premise: Woman wearing dark brown leather jacket, sunglasses, brown leather boots, silver designer handbag, sitting on a fire engine red park bench.
+Hypothesis: A nicely dressed woman is sitting in the park.
+--------------------------------------------------------------------------------
+
+Error 600 (Index: 8460)
+True: entailment | Predicted: neutral
+Premise: Three musicians are playing in a band.
+Hypothesis: The band is signing autographs
+--------------------------------------------------------------------------------
+
+Error 601 (Index: 8475)
+True: contradiction | Predicted: entailment
+Premise: An elderly woman with a tan nun uniform on and glasses is taking a picture with her camera.
+Hypothesis: A woman is in a tan nun uniform.
+--------------------------------------------------------------------------------
+
+Error 602 (Index: 8479)
+True: neutral | Predicted: contradiction
+Premise: Several people are playing an intense game of paintball while others watch from the sidelines.
+Hypothesis: People play a game.
+--------------------------------------------------------------------------------
+
+Error 603 (Index: 8481)
+True: neutral | Predicted: entailment
+Premise: Several people are playing an intense game of paintball while others watch from the sidelines.
+Hypothesis: The people watching from the sidelines cheer.
+--------------------------------------------------------------------------------
+
+Error 604 (Index: 8483)
+True: contradiction | Predicted: neutral
+Premise: A man and a woman, both wearing sunglasses, embrace one another, while smiling and posing for the camera.
+Hypothesis: Two men take a picture together.
+--------------------------------------------------------------------------------
+
+Error 605 (Index: 8485)
+True: contradiction | Predicted: neutral
+Premise: A man dressed only in a towel is in a sauna.
+Hypothesis: A human not wearing any clothes is in a room.
+--------------------------------------------------------------------------------
+
+Error 606 (Index: 8511)
+True: contradiction | Predicted: neutral
+Premise: A child in a red coat waves a hand in the air while lying in snow beside a red plastic sled.
+Hypothesis: A child is playing in the snow with his friends.
+--------------------------------------------------------------------------------
+
+Error 607 (Index: 8550)
+True: neutral | Predicted: entailment
+Premise: A man on a ladder in tall grass.
+Hypothesis: The man is wearing glasses.
+--------------------------------------------------------------------------------
+
+Error 608 (Index: 8577)
+True: neutral | Predicted: contradiction
+Premise: Middle-aged man cleaning the fallen snow on the roof of his car with a broom.
+Hypothesis: The man is cleaning off his car.
+--------------------------------------------------------------------------------
+
+Error 609 (Index: 8636)
+True: neutral | Predicted: contradiction
+Premise: A man on one miniature train passes a circular object to a man on another train as they pass by.
+Hypothesis: Two trains of different sizes but following each other side by side going to opposing directions.
+--------------------------------------------------------------------------------
+
+Error 610 (Index: 8640)
+True: contradiction | Predicted: neutral
+Premise: A businessman in a white sweater conducts necessary business in a plaza using a concrete abutment as a work table.
+Hypothesis: man on lunch break
+--------------------------------------------------------------------------------
+
+Error 611 (Index: 8646)
+True: contradiction | Predicted: neutral
+Premise: Four people wearing backpacks walking in a line along a mountain trail.
+Hypothesis: No one is on the mountain trail
+--------------------------------------------------------------------------------
+
+Error 612 (Index: 8662)
+True: contradiction | Predicted: neutral
+Premise: A man in a boom lift bucket welds.
+Hypothesis: A man is working indoors.
+--------------------------------------------------------------------------------
+
+Error 613 (Index: 8665)
+True: contradiction | Predicted: neutral
+Premise: A young dark-haired woman with red sun visor holding an open white umbrella amidst a crowd of people
+Hypothesis: The attractive brunette in a red visor gets a lot of attention from the crowd as she holds a white umbrella.
+--------------------------------------------------------------------------------
+
+Error 614 (Index: 8671)
+True: neutral | Predicted: entailment
+Premise: A group of people are outside working.
+Hypothesis: People are busy.
+--------------------------------------------------------------------------------
+
+Error 615 (Index: 8728)
+True: entailment | Predicted: neutral
+Premise: A well dressed elderly woman standing in front of a bus decorated with images of purple flowers.
+Hypothesis: There is a group of boys standing around looking at a sports car.
+--------------------------------------------------------------------------------
+
+Error 616 (Index: 8729)
+True: contradiction | Predicted: neutral
+Premise: A well dressed elderly woman standing in front of a bus decorated with images of purple flowers.
+Hypothesis: A grandmother is standing in front of a bus with violets decorated all over it.
+--------------------------------------------------------------------------------
+
+Error 617 (Index: 8748)
+True: neutral | Predicted: contradiction
+Premise: a black dog chases a boy wearing red and blue.
+Hypothesis: a dog chases his tail
+--------------------------------------------------------------------------------
+
+Error 618 (Index: 8817)
+True: contradiction | Predicted: neutral
+Premise: A older man with gray hair wearing a gray suit next to a green and yellow taxi.
+Hypothesis: A older woman sits in a green and yellow taxi.
+--------------------------------------------------------------------------------
+
+Error 619 (Index: 8819)
+True: entailment | Predicted: neutral
+Premise: The man in camouflage pants telephones 911 for the man in black sneakers who is lying on the ground having a heart attack.
+Hypothesis: The men are terrified.
+--------------------------------------------------------------------------------
+
+Error 620 (Index: 8822)
+True: entailment | Predicted: neutral
+Premise: A choir of youths are singing.
+Hypothesis: a choir of kids are singing
+--------------------------------------------------------------------------------
+
+Error 621 (Index: 8823)
+True: contradiction | Predicted: neutral
+Premise: A choir of youths are singing.
+Hypothesis: they are singing in a christmas program
+--------------------------------------------------------------------------------
+
+Error 622 (Index: 8825)
+True: neutral | Predicted: entailment
+Premise: A newspaper delivery man smiles as he walks down a sidewalk holding his papers on top of his head.
+Hypothesis: This person's only job is being a welder on an oil rig.
+--------------------------------------------------------------------------------
+
+Error 623 (Index: 8834)
+True: entailment | Predicted: neutral
+Premise: The person is reading a book.
+Hypothesis: A man listens to an audio book.
+--------------------------------------------------------------------------------
+
+Error 624 (Index: 8852)
+True: entailment | Predicted: neutral
+Premise: A little baby wearing a blue outfit is grabbing some fruit.
+Hypothesis: A little baby is wearing red.
+--------------------------------------------------------------------------------
+
+Error 625 (Index: 8856)
+True: entailment | Predicted: neutral
+Premise: A woman is applying lip makeup to another woman who seems to have some green in her hair.
+Hypothesis: The girl is getting made up
+--------------------------------------------------------------------------------
+
+Error 626 (Index: 8863)
+True: neutral | Predicted: entailment
+Premise: A woman in a headscarf sitting in front of a loom.
+Hypothesis: the woman is standing
+--------------------------------------------------------------------------------
+
+Error 627 (Index: 8891)
+True: entailment | Predicted: neutral
+Premise: A child rides a bicycle in a sunny neighborhood.
+Hypothesis: the child is riding his bike to the park
+--------------------------------------------------------------------------------
+
+Error 628 (Index: 8897)
+True: entailment | Predicted: neutral
+Premise: An older caucasian couple is having their picture taken by a stone statue of a man and woman kissing.
+Hypothesis: The couple standing by a statue are having their picture taken.
+--------------------------------------------------------------------------------
+
+Error 629 (Index: 8909)
+True: neutral | Predicted: contradiction
+Premise: Uniformed group walks down a street.
+Hypothesis: A group of people watch a movie.
+--------------------------------------------------------------------------------
+
+Error 630 (Index: 8911)
+True: neutral | Predicted: entailment
+Premise: Two girls, one with dark hair, wearing glasses and red pants, the other with a blue shirt and jeans with blond-hair talking and walking down a sidewalk.
+Hypothesis: Two people are outside walking together.
+--------------------------------------------------------------------------------
+
+Error 631 (Index: 8950)
+True: entailment | Predicted: neutral
+Premise: Two women sitting at a table with their hands together.
+Hypothesis: Two women are sitting down.
+--------------------------------------------------------------------------------
+
+Error 632 (Index: 8961)
+True: entailment | Predicted: neutral
+Premise: An obese white male wearing a blue shirt and khaki shorts sits in front of fountain all while gabbing on phone.
+Hypothesis: A man is talking outside on his phone.
+--------------------------------------------------------------------------------
+
+Error 633 (Index: 8977)
+True: entailment | Predicted: neutral
+Premise: The little boy is smiling as he crosses a rope on an assault course.
+Hypothesis: Some people have gone to the woods for training.
+--------------------------------------------------------------------------------
+
+Error 634 (Index: 8980)
+True: entailment | Predicted: neutral
+Premise: People wearing sombreros drink shots happily.
+Hypothesis: People enjoying the festivities in Cancun.
+--------------------------------------------------------------------------------
+
+Error 635 (Index: 9010)
+True: neutral | Predicted: entailment
+Premise: A black dog is swimming with a ball in his mouth.
+Hypothesis: The dog is asleep in the grass.
+--------------------------------------------------------------------------------
+
+Error 636 (Index: 9022)
+True: neutral | Predicted: entailment
+Premise: two samoyads play in the snow.
+Hypothesis: It is snowy outside.
+--------------------------------------------------------------------------------
+
+Error 637 (Index: 9030)
+True: entailment | Predicted: neutral
+Premise: A young boy wearing an orange jacket is sitting on a log in the fall.
+Hypothesis: A boy is playing by the log.
+--------------------------------------------------------------------------------
+
+Error 638 (Index: 9044)
+True: contradiction | Predicted: neutral
+Premise: A person is surfing a big wave.
+Hypothesis:  A person is surfing a big hundred foot wave.
+--------------------------------------------------------------------------------
+
+Error 639 (Index: 9078)
+True: neutral | Predicted: entailment
+Premise: A man wearing a brightly green camouflage patterned denim jacket and boots walks by a building labeled Lottery Ticket Centre.
+Hypothesis: A man in a red jacket is near a building labeled Lottery Ticket Centre.
+--------------------------------------------------------------------------------
+
+Error 640 (Index: 9085)
+True: neutral | Predicted: entailment
+Premise: A man in shorts and flip-flops is carrying a bag on his back.
+Hypothesis: A man is carrying a bag on his back.
+--------------------------------------------------------------------------------
+
+Error 641 (Index: 9086)
+True: entailment | Predicted: neutral
+Premise: A man in shorts and flip-flops is carrying a bag on his back.
+Hypothesis: A man is hiking outside with a bag on his back.
+--------------------------------------------------------------------------------
+
+Error 642 (Index: 9105)
+True: contradiction | Predicted: entailment
+Premise: A man in a red delivery truck is talking to someone is a black coat.
+Hypothesis: A person in a red delivery truck is talking to someone is a black coat.
+--------------------------------------------------------------------------------
+
+Error 643 (Index: 9122)
+True: neutral | Predicted: contradiction
+Premise: A man and a woman jumping with a lake in the background.
+Hypothesis: There is a man and a woman.
+--------------------------------------------------------------------------------
+
+Error 644 (Index: 9129)
+True: contradiction | Predicted: neutral
+Premise: Three children are shooting guns in the woods.
+Hypothesis: Three children are shooting a deer.
+--------------------------------------------------------------------------------
+
+Error 645 (Index: 9138)
+True: entailment | Predicted: neutral
+Premise: A woman and two men, that are dressed professionally, are having a discussion.
+Hypothesis: A woman and two men are talking amongst themselves.
+--------------------------------------------------------------------------------
+
+Error 646 (Index: 9149)
+True: neutral | Predicted: contradiction
+Premise: A man in khakis sitting at a table with a sign that reads "poet for hire."
+Hypothesis: The gentleman is standing by the table.
+--------------------------------------------------------------------------------
+
+Error 647 (Index: 9169)
+True: neutral | Predicted: contradiction
+Premise: She is cooking food while wearing a dress.
+Hypothesis: A woman in a dress cooks food.
+--------------------------------------------------------------------------------
+
+Error 648 (Index: 9173)
+True: neutral | Predicted: entailment
+Premise: Four dogs of varying breeds running through a field.
+Hypothesis: Some animals outdoors.
+--------------------------------------------------------------------------------
+
+Error 649 (Index: 9178)
+True: neutral | Predicted: contradiction
+Premise: Two men wearing black smile while a seated woman behind them looks tired.
+Hypothesis: The woman looks weary.
+--------------------------------------------------------------------------------
+
+Error 650 (Index: 9185)
+True: entailment | Predicted: neutral
+Premise: Two children play in the snow by the side of the road.
+Hypothesis: Toddles are roasting marshmallows.
+--------------------------------------------------------------------------------
+
+Error 651 (Index: 9186)
+True: neutral | Predicted: entailment
+Premise: Two children play in the snow by the side of the road.
+Hypothesis: Kids are enjoying the cold weather.
+--------------------------------------------------------------------------------
+
+Error 652 (Index: 9188)
+True: neutral | Predicted: entailment
+Premise: A man in a yellow shirt and helmet mountain biking down a dusty path.
+Hypothesis: A man is biking down a path.
+--------------------------------------------------------------------------------
+
+Error 653 (Index: 9214)
+True: neutral | Predicted: contradiction
+Premise: A young girl wearing a flora shirt is sitting in tub in brown water with the remnants of a snake.
+Hypothesis: A girl is sitting in dirty water with a snake's skin in her hands
+--------------------------------------------------------------------------------
+
+Error 654 (Index: 9222)
+True: neutral | Predicted: entailment
+Premise: A young woman with a black hat and red and black jacket, swings on a red-orange ball attached to a blue rope.
+Hypothesis: The photo is taking place in a gym.
+--------------------------------------------------------------------------------
+
+Error 655 (Index: 9244)
+True: neutral | Predicted: entailment
+Premise: Two men outside of a restaurant.
+Hypothesis: Two men are eating inside a restaurant.
+--------------------------------------------------------------------------------
+
+Error 656 (Index: 9251)
+True: neutral | Predicted: contradiction
+Premise: A boy splashing through the ocean.
+Hypothesis: The boy is in Kansas.
+--------------------------------------------------------------------------------
+
+Error 657 (Index: 9269)
+True: contradiction | Predicted: neutral
+Premise: A man and woman ride in a mule drawn carriage as the driver points out landmarks.
+Hypothesis: The couple is driving
+--------------------------------------------------------------------------------
+
+Error 658 (Index: 9270)
+True: contradiction | Predicted: entailment
+Premise: A man and woman ride in a mule drawn carriage as the driver points out landmarks.
+Hypothesis: The couple is sleeping.
+--------------------------------------------------------------------------------
+
+Error 659 (Index: 9297)
+True: contradiction | Predicted: neutral
+Premise: As a crowd looks on, a player in a white uniform, wearing only one colorful sock, makes a diving catch for the frisbee.
+Hypothesis: A player makes the game winning catch
+--------------------------------------------------------------------------------
+
+Error 660 (Index: 9301)
+True: entailment | Predicted: neutral
+Premise: A young football player watches a game with his coach.
+Hypothesis: A basketball player watches a game.
+--------------------------------------------------------------------------------
+
+Error 661 (Index: 9307)
+True: neutral | Predicted: contradiction
+Premise: A group of ladies sit around a black table in front of a brick wall with a building in the background.
+Hypothesis: The ladies are standing up for a picture.
+--------------------------------------------------------------------------------
+
+Error 662 (Index: 9309)
+True: entailment | Predicted: neutral
+Premise: A group of ladies sit around a black table in front of a brick wall with a building in the background.
+Hypothesis: The ladies are friends.
+--------------------------------------------------------------------------------
+
+Error 663 (Index: 9314)
+True: neutral | Predicted: contradiction
+Premise: Four kids sitting at a table with food on several plates.
+Hypothesis: Kids play outside.
+--------------------------------------------------------------------------------
+
+Error 664 (Index: 9328)
+True: neutral | Predicted: entailment
+Premise: A man on a skateboard on steps in front glass doors of a brick building.
+Hypothesis: The brick building had glass doors in front
+--------------------------------------------------------------------------------
+
+Error 665 (Index: 9340)
+True: neutral | Predicted: entailment
+Premise: a woman wearing a pink tank top holding a mug of liquid
+Hypothesis: A woman in a blue tank top holding a car.
+--------------------------------------------------------------------------------
+
+Error 666 (Index: 9354)
+True: neutral | Predicted: entailment
+Premise: a man with a cap and not wearing shirt is laying a wooden bench.
+Hypothesis: A person rests on seat
+--------------------------------------------------------------------------------
+
+Error 667 (Index: 9400)
+True: entailment | Predicted: neutral
+Premise: Large brown dog walking in shallow water.
+Hypothesis: A brown dog is walking outside
+--------------------------------------------------------------------------------
+
+Error 668 (Index: 9402)
+True: entailment | Predicted: contradiction
+Premise: Large brown dog walking in shallow water.
+Hypothesis: An animal is in water
+--------------------------------------------------------------------------------
+
+Error 669 (Index: 9404)
+True: neutral | Predicted: entailment
+Premise: An old man in a gray shirt smiles at the camera while doing laundry in a small room.
+Hypothesis: The man frowns at the camera
+--------------------------------------------------------------------------------
+
+Error 670 (Index: 9410)
+True: entailment | Predicted: neutral
+Premise: A skateboard is grinding on a curb with his skateboard.
+Hypothesis: The skateboard is grinding.
+--------------------------------------------------------------------------------
+
+Error 671 (Index: 9411)
+True: contradiction | Predicted: entailment
+Premise: A skateboard is grinding on a curb with his skateboard.
+Hypothesis: The skateboard is resting.
+--------------------------------------------------------------------------------
+
+Error 672 (Index: 9439)
+True: contradiction | Predicted: neutral
+Premise: A woman in a white shirt inspects a black garment while sitting in a chair at a festival.
+Hypothesis: A woman drinks a beer.
+--------------------------------------------------------------------------------
+
+Error 673 (Index: 9440)
+True: entailment | Predicted: contradiction
+Premise: A woman in a white shirt inspects a black garment while sitting in a chair at a festival.
+Hypothesis: A woman inspects a garment.
+--------------------------------------------------------------------------------
+
+Error 674 (Index: 9448)
+True: entailment | Predicted: neutral
+Premise: A group of three men and two woman sitting at a table that has food, drinks, and a game on it.
+Hypothesis: the people are tourists
+--------------------------------------------------------------------------------
+
+Error 675 (Index: 9475)
+True: entailment | Predicted: neutral
+Premise: A man wearing a green apron, working at a street side vendor called NY Dosas, miles at the camera.
+Hypothesis: The man selling halal meat in his food cart is smiling at the camera.
+--------------------------------------------------------------------------------
+
+Error 676 (Index: 9486)
+True: neutral | Predicted: entailment
+Premise: two dogs run across the woods.
+Hypothesis: The dogs are running after an animal
+--------------------------------------------------------------------------------
+
+Error 677 (Index: 9490)
+True: neutral | Predicted: entailment
+Premise: Two men talk outdoors.
+Hypothesis: There are men outside
+--------------------------------------------------------------------------------
+
+Error 678 (Index: 9494)
+True: contradiction | Predicted: neutral
+Premise: Boy sitting looking through a glass window at a train station.
+Hypothesis: A boy is sitting at a train station.
+--------------------------------------------------------------------------------
+
+Error 679 (Index: 9499)
+True: entailment | Predicted: neutral
+Premise: A shirt booth with a man printing a shirt.
+Hypothesis: The man is printing a shirt.
+--------------------------------------------------------------------------------
+
+Error 680 (Index: 9501)
+True: neutral | Predicted: entailment
+Premise: A shirt booth with a man printing a shirt.
+Hypothesis: The man is printing some pants.
+--------------------------------------------------------------------------------
+
+Error 681 (Index: 9504)
+True: neutral | Predicted: contradiction
+Premise: A young woman is about to descend the stairs into a metro station.
+Hypothesis: A lady is taking a bus
+--------------------------------------------------------------------------------
+
+Error 682 (Index: 9525)
+True: neutral | Predicted: entailment
+Premise: A dog jumping over a beam
+Hypothesis: An animal is lying down.
+--------------------------------------------------------------------------------
+
+Error 683 (Index: 9562)
+True: neutral | Predicted: entailment
+Premise: A girl sits at a table in front of a plate of food.
+Hypothesis: There is no food on the plate.
+--------------------------------------------------------------------------------
+
+Error 684 (Index: 9604)
+True: neutral | Predicted: contradiction
+Premise: A boy stands in the middle of a crowd of teenagers.
+Hypothesis: A person stands in the middle of a crowd of teenagers.
+--------------------------------------------------------------------------------
+
+Error 685 (Index: 9606)
+True: neutral | Predicted: entailment
+Premise: A boy stands in the middle of a crowd of teenagers.
+Hypothesis: A sad boy stands in the middle of a crowd of teenagers.
+--------------------------------------------------------------------------------
+
+Error 686 (Index: 9613)
+True: contradiction | Predicted: neutral
+Premise: A man in suit waiting for the green light.
+Hypothesis: A man waits at a red light.
+--------------------------------------------------------------------------------
+
+Error 687 (Index: 9620)
+True: neutral | Predicted: contradiction
+Premise: A woman holding a newborn baby.
+Hypothesis: woman holds baby
+--------------------------------------------------------------------------------
+
+Error 688 (Index: 9650)
+True: contradiction | Predicted: neutral
+Premise: The man in black is flying off the full in front of a red fence.
+Hypothesis: The man wearing black pants and a black jacket is in front of the fence.
+--------------------------------------------------------------------------------
+
+Error 689 (Index: 9660)
+True: neutral | Predicted: entailment
+Premise: A young man sitting under a tree while others walk down the street.
+Hypothesis: A young man is playing basketball.
+--------------------------------------------------------------------------------
+
+Error 690 (Index: 9666)
+True: contradiction | Predicted: entailment
+Premise: A girl with a blue shirt and a girl with a striped shirt stand next to a girl with a green shirt sitting in a chair.
+Hypothesis: The three girls are arm wrestling in China town.
+--------------------------------------------------------------------------------
+
+Error 691 (Index: 9667)
+True: neutral | Predicted: entailment
+Premise: By a table with several boxes and two coffee cups on it, a woman in a green sweater is opening a small box and another person (whose head cannot be seen) is operating a small handheld electronic device.
+Hypothesis: Members of congress opening care packages.
+--------------------------------------------------------------------------------
+
+Error 692 (Index: 9686)
+True: contradiction | Predicted: neutral
+Premise: Two humans looking out in the distance from a hill.
+Hypothesis: Two people are rolling down the hill.
+--------------------------------------------------------------------------------
+
+Error 693 (Index: 9694)
+True: entailment | Predicted: contradiction
+Premise: A man holds two children in his arms.
+Hypothesis: A man with his two children running in front of him.
+--------------------------------------------------------------------------------
+
+Error 694 (Index: 9714)
+True: neutral | Predicted: entailment
+Premise: A short-haired man in a dark camouflage jacket plays the saxophone on a street corner while people look on in the background.
+Hypothesis: a man is eating a sandwich
+--------------------------------------------------------------------------------
+
+Error 695 (Index: 9718)
+True: entailment | Predicted: neutral
+Premise: Two women are tending to their herd of animals including cows and goats near a building made primarily of stone.
+Hypothesis: The women are next to a big elementary school
+--------------------------------------------------------------------------------
+
+Error 696 (Index: 9722)
+True: neutral | Predicted: entailment
+Premise: A surfer showing off his talent in public using a man-made water machine.
+Hypothesis: A surfer is in performing at a charity event.
+--------------------------------------------------------------------------------
+
+Error 697 (Index: 9730)
+True: entailment | Predicted: neutral
+Premise: A group of Asian men are sitting or standing around a small square table.
+Hypothesis: Some men are eating dinner around a large round table.
+--------------------------------------------------------------------------------
+
+Error 698 (Index: 9739)
+True: neutral | Predicted: entailment
+Premise: A group of people, including one man carrying a silver tripod, stand in front of a large building featuring numerous columns.
+Hypothesis: Gerbils chat on Gruveo.
+--------------------------------------------------------------------------------
+
+Error 699 (Index: 9740)
+True: neutral | Predicted: contradiction
+Premise: A group of people, including one man carrying a silver tripod, stand in front of a large building featuring numerous columns.
+Hypothesis: People are standing.
+--------------------------------------------------------------------------------
+
+Error 700 (Index: 9755)
+True: neutral | Predicted: contradiction
+Premise: A man walks into a transportation station and two officers in neon jackets stand guard.
+Hypothesis: The man is at a school
+--------------------------------------------------------------------------------
+
+Error 701 (Index: 9771)
+True: contradiction | Predicted: neutral
+Premise: A snowboarder with a maroon coat sails through the air.
+Hypothesis: The snowboarder is naked.
+--------------------------------------------------------------------------------
+
+Error 702 (Index: 9786)
+True: neutral | Predicted: entailment
+Premise: A man dressed in a red shirt and black tie stands up at a wedding reception to make a speech.
+Hypothesis: a man sits shyly near a bride
+--------------------------------------------------------------------------------
+
+Error 703 (Index: 9788)
+True: entailment | Predicted: contradiction
+Premise: A woman in black walks down the street in front of a graffited wall.
+Hypothesis: A young woman is standing and staring at a painted mural.
+--------------------------------------------------------------------------------
+
+Error 704 (Index: 9817)
+True: neutral | Predicted: entailment
+Premise: A young girl chasing a duck with bread in her hands.
+Hypothesis: A young girl chasing a duck with bread in her hands, and a brick in the other.
+--------------------------------------------------------------------------------
+
