@@ -34,12 +34,12 @@ model_name = "meta-llama/Meta-Llama-3.1-8B-Instruct"
 dataset_text_field = "text"
 log_with = 'wandb'
 learning_rate = 1.41e-5
-batch_size = 4
+batch_size = 8
 seq_length = 512
 gradient_accumulation_steps = 2
-num_train_epochs = 1 ###################need to change to 3 for better results
-logging_steps = 100
-output_dir = "checkpoints"
+num_train_epochs = 3  ###################need to change to 3 for better results
+logging_steps = 1000
+output_dir = f"checkpoints"
 
 report_to = 'wandb'  # Options: 'wandb', 'tensorboard', 'all', or 'none'
 
@@ -210,7 +210,7 @@ def main():
     # Check for existing checkpoints and resume if available
     checkpoint_dir = None
     if os.path.exists(output_dir):
-        checkpoints = [d for d in os.listdir(output_dir) if d.startswith("checkpoint-")]
+        checkpoints = [d for d in os.listdir(output_dir) if d.startswith(f"checkpoint-")]
         if checkpoints:
             # Get the latest checkpoint
             latest_checkpoint = max(checkpoints, key=lambda x: int(x.split("-")[1]))
